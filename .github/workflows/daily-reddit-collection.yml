@@ -52,4 +52,5 @@ jobs:
       with:
         name: reddit-data-${{ github.run_number }}
         path: "*.csv"
+        overwrite: true
         retention-days: 30
