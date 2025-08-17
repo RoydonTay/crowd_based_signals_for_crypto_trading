@@ -127,8 +127,7 @@ reddit = praw.Reddit(
 )
 
 # Obtain a subreddit instance
-#subreddit_names = ["btc", "eth", "CryptoMarkets"]
-subreddit_names = ["python"]
+subreddit_names = ["btc", "eth", "CryptoMarkets"]
 for subreddit_name in subreddit_names:
     print(f"Collecting data from subreddit: {subreddit_name}")
     subreddit = reddit.subreddit(subreddit_name)
