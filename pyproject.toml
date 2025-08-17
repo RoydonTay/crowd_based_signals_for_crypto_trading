@@ -1,7 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
 [project]
 name = "reddit-data-retrieval"
 version = "0.1.0"
-description = "Add your description here"
+description = "Reddit data collection scripts for cryptocurrency analysis"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
@@ -16,6 +20,16 @@ dependencies = [
     "google-auth>=2.0.0",
     "google-auth-oauthlib>=1.0.0",
     "google-auth-httplib2>=0.2.0",
+]
+
+[tool.setuptools]
+py-modules = [
+    "praw_test",
+    "fetch_comments_by_ids", 
+    "psaw_fetch_comments",
+    "setup_google_oauth",
+    "reddit_api",
+    "yfinance_test"
 ]
 
 [tool.bumpversion]
