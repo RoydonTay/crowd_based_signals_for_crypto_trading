@@ -139,7 +139,7 @@ for subreddit_name in subreddit_names:
 
     title = None
     flair = None
-    for submission in subreddit.new(limit=10):
+    for submission in subreddit.new(limit=100):
         if submission.selftext:
             title = submission.title
             selftext = str(submission.selftext)
