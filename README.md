@@ -4,7 +4,7 @@ This project automatically collects Reddit data from cryptocurrency-related subr
 
 ## Features
 
-- **Automated Data Collection**: Runs daily at 23:00 UTC via GitHub Actions
+- **Automated Data Collection**: Runs hourly via GitHub Actions
 - **Multiple Subreddits**: Collects from `btc`, `eth`, and `CryptoMarkets`
 - **Google Drive Integration**: Automatically uploads CSV files to your Google Drive
 - **Manual Trigger**: Can be triggered manually via GitHub Actions UI
@@ -56,7 +56,7 @@ The GitHub Action runs:
 
 ## Output Files
 
-Each run generates CSV files named: `reddit_data_{subreddit}_{date}.csv`
+Each run generates CSV files named: `reddit_data_{subreddit}_{date}_{time}.csv`
 
 Columns include:
 - `title`: Post title

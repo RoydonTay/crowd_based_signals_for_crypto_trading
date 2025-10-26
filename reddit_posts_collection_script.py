@@ -4,6 +4,7 @@ import pandas as pd
 import time
 import json
 from datetime import datetime
+from zoneinfo import ZoneInfo
 from praw.models import MoreComments, Submission
 from dotenv import load_dotenv
 import google.auth
@@ -127,7 +128,7 @@ reddit = praw.Reddit(
 )
 
 # Obtain a subreddit instance
-subreddit_names = ["btc", "eth", "CryptoMarkets"]
+subreddit_names = ["btc", "eth"]
 for subreddit_name in subreddit_names:
     print(f"Collecting data from subreddit: {subreddit_name}")
     subreddit = reddit.subreddit(subreddit_name)
@@ -170,7 +171,9 @@ for subreddit_name in subreddit_names:
                 df = pd.concat([df, comment_df], axis=0, ignore_index=True)
 
     # Write the dataframe to a CSV file
-    csv_filename = f'reddit_data_{subreddit_name}_{datetime.now().date()}.csv'
+    # Use Singapore Time (SGT, UTC+8) and include 24-hour time in the filename (YYYY-MM-DD_HHMM)
+    now_sgt = datetime.now(ZoneInfo("Asia/Singapore"))
+    csv_filename = f'reddit_data_{subreddit_name}_{now_sgt.strftime("%Y-%m-%d_%H%M")}.csv'
     df.to_csv(csv_filename, index=False)
 
     print(f"Data collection for {subreddit_name} completed in {time.time() - start:.2f} seconds.")

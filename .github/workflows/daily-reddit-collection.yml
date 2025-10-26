@@ -2,8 +2,8 @@ name: Daily Reddit Data Collection
 
 on:
   schedule:
-    # Run daily at 15:00 UTC (23:00 SGT / 11:00 PM Singapore Time)
-    - cron: '0 15 * * *'
+    # Run hourly at minute 0 UTC (top of every hour)
+    - cron: '0 * * * *'
   workflow_dispatch: # Allow manual trigger
 
 jobs:
