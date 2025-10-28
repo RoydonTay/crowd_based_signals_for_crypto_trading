@@ -30,6 +30,8 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
+        # Ensure 'packaging' is present (google libraries import it at runtime)
+        python -m pip install packaging
         pip install -e .
       
     - name: Run Reddit data collection
