@@ -33,6 +33,10 @@ jobs:
         # Install pinned runtime dependencies first so actions environments have everything needed
         pip install -r requirements.txt
         pip install -e .
+
+    - name: Run smoke imports test
+      # Quick check to fail early if key modules are missing
+      run: python ci/smoke_imports.py
       
     - name: Run Reddit data collection
       env:
