@@ -30,8 +30,8 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        # Ensure 'packaging' is present (google libraries import it at runtime)
-        python -m pip install packaging
+        # Install pinned runtime dependencies first so actions environments have everything needed
+        pip install -r requirements.txt
         pip install -e .
       
     - name: Run Reddit data collection
