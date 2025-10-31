@@ -1,0 +1,1424 @@
+title,selftext,is_comment,score,flair
+Moria MUSD Valuation Stability,"What keeps MUSD’s price close to $1, protocol or humans trading for arbitrage?, and why can’t it actually be $1 instead on 1-2% off, at least when I look at it?",False,2,
+BTC tactical outlook,"Double top confirmation on HTF have us at an interesting intersection considering the level of M2 money supply (not to mention matching cycles via global economic states).
+
+Typically BTC price follows with a lag the money supply cycle. Yes there are countless other moments of volatility which can bring value price fluctuations, or coins to move.
+
+Opening a short here with a stop at the DT feels ok, but dangerous. Simply as a triple top is possible, along with a sincere further surge and bullish break higher… however, I’m not tracking signs that it will occur at all.
+
+Target short profit take at 68k, stop loss at 125k perhaps to be better safe than sorry. Should we cross 10k lines at 100/90/80 etc I’ll add on further layers.
+
+Timeline expecting to finish and be out by Nov ‘26, in line with the middle of Orange Man’s term.
+
+Should be able to take 100k and get approx 2-3M back with the right leverage and layering, and patience….
+
+Thoughts?",False,0,🐻 Bearish
+BTC tactical outlook,"Tactical downside catalysts that are unique to this cycle and therefore disrupting cycle symmetry vs prior are 1) random comments from high profile institutional players (ie Novotratz saying to rotate into Eth, Tom Lee saying the same); 2) random/sporadic quantum computing headlines that always cause a sell off; 3) shitcoins/rug pulls not from typical alt coin players but people of real influence and power. Put it all together, the probability of a late cycle bull run into the 500-day post halving date is lower than prior cycles. Risk/reward on a short with disciplined stops seems ok",True,2,🐻 Bearish
+BTC tactical outlook,We are going higher my friend,True,1,🐻 Bearish
+BTC tactical outlook,doubt Bull has left BCH behind,True,2,🐻 Bearish
+Explain to me the core Axiom that enable the crippling: How do Nodes without Proof of WORK control a Proof of WORK Network?,"From the whitepaper:
+
+> Nodes express their acceptance of the block by working on creating the next block in the chain, using the hash of the accepted block as the previous hash.",False,2,⌨ Discussion
+Explain to me the core Axiom that enable the crippling: How do Nodes without Proof of WORK control a Proof of WORK Network?,"they do not, it is a myth from 2017",True,6,⌨ Discussion
+Explain to me the core Axiom that enable the crippling: How do Nodes without Proof of WORK control a Proof of WORK Network?,"For Bitcoin they did it in two stages: both designed to make it risky for ""economically relevant"" nodes to upgrade to another version of Bitcoin.
+
+They [set they trap in February of 2016](https://medium.com/@bitcoinroundtable/bitcoin-roundtable-consensus-266d475a61ff): by getting miners to agree to only run the Bitcoin Core software.
+
+> We will only run Bitcoin Core-compatible consensus systems, eventually containing both SegWit and the hard-fork, in production, for the foreseeable future.
+
+Then, in August of 2017, they sprung the trap: [disconnecting any nodes that dare upgrade off the network](https://github.com/bitcoin/bitcoin/pull/10982). This made it too risky for ""economically relevant"" nodes, like exchanges, to complete the upgrade.
+
+> Immediately disconnect peers that use service bits 6 and 8 until August 1st, 2018
+These bits have been used as a flag to indicate that a node is running incompatible
+consensus rules [read: support for a larger block size] instead of changing the network magic, so we're stuck disconnecting
+based on the service bits, at least for a while.",True,1,⌨ Discussion
+Explain to me the core Axiom that enable the crippling: How do Nodes without Proof of WORK control a Proof of WORK Network?,"A ""top 1% commenter"" should know more about how a blockchain works
+
+You probably think that miners matter?
+
+A very well coordinated group of miners can do a 51% attack, and even then the worst they can do is keep blocks empty until they run out of money or patience. But otherwise they have no power
+
+The (economically relevant) nodes have the power. They decide the consensus rules, and they pay miners who follow the rules, by giving them strong incentives to play ball",True,-2,⌨ Discussion
+Explain to me the core Axiom that enable the crippling: How do Nodes without Proof of WORK control a Proof of WORK Network?,And he got away cheap. Just $6 per channel.,True,8,⌨ Discussion
+Explain to me the core Axiom that enable the crippling: How do Nodes without Proof of WORK control a Proof of WORK Network?,Now imagine if the network is congested.,True,3,⌨ Discussion
+Explain to me the core Axiom that enable the crippling: How do Nodes without Proof of WORK control a Proof of WORK Network?,I really wanna hear the maxi excuse nr. 5 on the NPC script to that one.,True,4,⌨ Discussion
+Explain to me the core Axiom that enable the crippling: How do Nodes without Proof of WORK control a Proof of WORK Network?,https://imgflip.com/i/5te478,True,3,⌨ Discussion
+Explain to me the core Axiom that enable the crippling: How do Nodes without Proof of WORK control a Proof of WORK Network?,LN is a complete failure. Bitcoin Core can scale without LN but it’s been captured by the elites.,True,3,⌨ Discussion
+Explain to me the core Axiom that enable the crippling: How do Nodes without Proof of WORK control a Proof of WORK Network?,"you seem to have accidentially dropped the word ""not"" in your headline",True,2,⌨ Discussion
+Explain to me the core Axiom that enable the crippling: How do Nodes without Proof of WORK control a Proof of WORK Network?,Use old.reddit if you see a blurry image.,True,1,⌨ Discussion
+Explain to me the core Axiom that enable the crippling: How do Nodes without Proof of WORK control a Proof of WORK Network?,"Believe it or not, straight to r/lolnet",True,1,⌨ Discussion
+Explain to me the core Axiom that enable the crippling: How do Nodes without Proof of WORK control a Proof of WORK Network?,"advertising with dictators seem to come en vogue, while once we thought of an idea of freedom and independance - disgustung how this timeline turns out",True,13,⌨ Discussion
+Explain to me the core Axiom that enable the crippling: How do Nodes without Proof of WORK control a Proof of WORK Network?,"Down-voting and reporting this shit. I am all pro-crypto, but unless you were with them in the cabinet meeting and you have a way to prove it, you gotta provide a link or something with your claim.",True,5,⌨ Discussion
+Explain to me the core Axiom that enable the crippling: How do Nodes without Proof of WORK control a Proof of WORK Network?,No he didn't. He's slightly reducing regulatory burden.,True,2,⌨ Discussion
+Explain to me the core Axiom that enable the crippling: How do Nodes without Proof of WORK control a Proof of WORK Network?,Even he has fomo,True,1,⌨ Discussion
+Explain to me the core Axiom that enable the crippling: How do Nodes without Proof of WORK control a Proof of WORK Network?,Scammers like scamcoins,True,1,⌨ Discussion
+Explain to me the core Axiom that enable the crippling: How do Nodes without Proof of WORK control a Proof of WORK Network?,Percentage growth certainly,True,1,⌨ Discussion
+Explain to me the core Axiom that enable the crippling: How do Nodes without Proof of WORK control a Proof of WORK Network?,It already happened,True,1,⌨ Discussion
+Explain to me the core Axiom that enable the crippling: How do Nodes without Proof of WORK control a Proof of WORK Network?,"I mean even if it goes to a million per coin that's less than a 10x from here, so the best growth is well behind us IMO
+
+still massive, near perpetual upside though me thinks.",True,1,⌨ Discussion
+Explain to me the core Axiom that enable the crippling: How do Nodes without Proof of WORK control a Proof of WORK Network?,"Had you already been born back than, or what is your Story telling ?",True,1,⌨ Discussion
+Explain to me the core Axiom that enable the crippling: How do Nodes without Proof of WORK control a Proof of WORK Network?,"The biggest growth rate in % has already happened.
+
+It is still growing faster than most other assets, but the exceptional growth from 2009 to the end of 2017 is over and not coming back.
+
+https://bitinfocharts.com/comparison/bitcoin-price.html#log&alltime",True,1,⌨ Discussion
+Explain to me the core Axiom that enable the crippling: How do Nodes without Proof of WORK control a Proof of WORK Network?,"And during that whole time: [BTC has been barely functional](https://blog.plan99.net/the-resolution-of-the-bitcoin-experiment-dabb30201f7).
+
+So I have no idea. The idea that several bitcoin funds are trying to buy up 1% of the BTC is bonkers to me.
+
+""Normies"" will only be using custodial Lightning Wallets if that comes to pass.",True,1,⌨ Discussion
+CoinEx: The Underrated Giant of Crypto Exchanges 🚀,"While everyone’s eyes are on Binance & Coinbase, @coinexcom has been quietly leveling up.
+It’s fast, user-friendly, and designed for both pros & beginners.
+
+Let’s break it down 👇
+
+#CoinEx #CoinExCreator #CoinExFlexibleSavings",False,0,
+CoinEx: The Underrated Giant of Crypto Exchanges 🚀,"Was disappointed that they got rid of all of their BCH base pairs.
+
+It is all BTC/USDC/USDT now.",True,3,
+CoinEx: The Underrated Giant of Crypto Exchanges 🚀,"What's the content here? Just one image?
+
+For me, [bit.com](http://bit.com) is great.",True,2,
+CoinEx: The Underrated Giant of Crypto Exchanges 🚀,"I do remember its founder as a honest man, even though long time no see .",True,1,
+CoinEx: The Underrated Giant of Crypto Exchanges 🚀,One of the problems with exchanges is that if you use them then they got all your information and they sell it to the deep state. So names are linked to wallets,True,1,
+Bitcoin Eyes Critical $105K Support Amid Market Fluctuation,"Market Performance of the bitcoin's price has experienced fluctuations, recently hovering around $110,000. Analysts suggest that a breach below the $105,000 support level could lead to a decline toward the $95,000 to $99,000 range",False,0,⚠️ Alert ⚠️
+Bitcoin Eyes Critical $105K Support Amid Market Fluctuation,105k looks like a big line to watch… if it breaks we prob see 95-99k easy. but still market been full of suprises lately so let’s see what btc wanna do 😅,True,1,⚠️ Alert ⚠️
+Bitcoin Eyes Critical $105K Support Amid Market Fluctuation,"I wonder if you can see the irony here ?
+
+Yes - the Fed’s actions worsened economic conditions.  Turned a Recession into a Depression.    
+Why ?  Because they kept monetary policy too tight.    Refused to drop Rates.
+
+They clung too tightly to a Hard Money Standard.  
+
+Can you see the irony?  Bitcoiners endorse the Hard Money Standard.   Why ?  Because they have lots of money.  It makes them richer.  By simply holding money.   
+.    
+ 
+If an early Bitcoiner holds, even just say, 100 BTC … quite conceivable that they could put their feet up for the rest of their life.  Do nothing.  Just fund their lifestyle from a stack that grows in value.  Whilst prices decline.  Lovely, eh ?  Bring it on!  Sign me up !!     
+.       
+   
+
+But wait.  …  what does Hard Money do to working people, or poor people, or those not born yet ?",True,2,⚠️ Alert ⚠️
+Bitcoin Eyes Critical $105K Support Amid Market Fluctuation," 1975 was the year the 41 year ban (Exec Order 6102) on personal ownership of gold ended (Gerald Ford).  This is the second work in the series by Nelson Saiers about economics, bitcoin incorporating relevant math.",True,1,⚠️ Alert ⚠️
+Bitcoin Eyes Critical $105K Support Amid Market Fluctuation,"  
+1861 was the year the American Civil War started and price of an ounce of gold was $18.93  
+  
+1931 was during the great depression and the price of gold dropped to $17.06
+
+March 22, 1933, President Franklin D. Roosevelt signs the Beer and Wine Revenue Act ending prohibition, which was started in 1920.
+
+April 5, 1933 Roosevelt made gold illegal for ownership through Executive Order 6102.
+
+1934 price of an ounce of gold was $34.69
+
+1935 the Social Security Act was passed.",True,1,⚠️ Alert ⚠️
+Bitcoin Eyes Critical $105K Support Amid Market Fluctuation,"I ate a lot of rat poison, am I gonna die?",True,0,⚠️ Alert ⚠️
+Bitcoin Eyes Critical $105K Support Amid Market Fluctuation,"Looks like a number of great CHIPs lined up for 2026 on Bitcoin Cash (BCH).
+
+Of course, the linked thread is just a discussion point.  As with everything in BCH, there is no centralized authority.
+
+Statements in support of CHIPs are collected by CHIP authors on a per-CHIP basis; you will usually find a specific section listing stakeholder opinions / statements of support within each CHIP document.",True,3,⚠️ Alert ⚠️
+Bitcoin Eyes Critical $105K Support Amid Market Fluctuation,Another useless upgrade that no one will benefit from. It will only bloat and add complexity to the code. BCH is essentially an Ethereum wannabe at this point. Downvote all you want. This project has lost its focus of being P2P electronic cash.,True,0,⚠️ Alert ⚠️
+Favorite exchange,"Guys anyone tried CoinEx exchange ever?? 
+How was your experience. Which exchange you most use?? ",False,1,
+Favorite exchange,I used them a few years ago around 2022 and had no problems. Hadn't had a use for them for a while since I needed a FIAT onramp.,True,2,
+Favorite exchange,Bitget,True,2,
+Favorite exchange,"Yes, very good.
+
+Haipo Yang is a good guy.",True,2,
+Favorite exchange,"they are OK for me, but I am not from the US",True,1,
+Favorite exchange,"They are now banned in Canada for [providing unregistered securities](https://lautorite.qc.ca/en/general-public/media-centre/news/fiche-dactualites/coinex-amf-continues-its-offensive-to-enforce-crypto-asset-trading-platform-compliance).
+
+Only recently got my ETH from the ViaBTC mining pool back.
+
+Edit: prefer their interface to the busy mess that Kraken has now. Hint: you can choose how ""advanced"" you want the Kraken interface.",True,1,
+Favorite exchange,Alright,True,1,
+Favorite exchange,did it really take a obvious crypto grift for these idiots to finally realize that this guy is a sleazy thief?,True,26,
+Favorite exchange,This belongs in leopards ate my face.,True,14,
+Favorite exchange,I'm just sad and angry for the dumb gullible people who always fall for these obvious criminal people and either give them money or vote them into power so then everyone has to suffer.,True,13,
+Favorite exchange,"Well, that's what you get for sending them money and speculating on their scams. You get scammed. lol",True,8,
+Favorite exchange,"""OMG! The people known for dishonesty did something DISHONEST! to me!!1!""",True,6,
+Favorite exchange,Are there really people who dont see all of this as a giant rug pull ponzi scheme meant to enrich the people at the top? I mean FFS why not just take all your money and open an AmWay distributorship,True,5,
+Favorite exchange,"Trump is a lifelong con-man.   These people get exactly what they deserve for placing trust in him.  Btw, "" the scam of all scams"" is him getting voted into office.",True,14,
+Favorite exchange,who would have thought?,True,3,
+Favorite exchange,"I think it's pretty clear, but did it really take a major crypto scam for people to finally realize he’s just a sleazy thief?",True,4,
+Favorite exchange,he got debanked,True,3,
+Favorite exchange,I’m not super clear on what’s happening here but the President isn’t immune from lawsuits for actions unrelated to the duties of his office.,True,2,
+Favorite exchange,Lost my life savings on Trump coin and now this :( how could Joe Biden do this to us :(,True,1,
+Favorite exchange,Im confused. Its an exchange doing this? And is the reason justified? First ive heard of blacklisting,True,1,
+Favorite exchange,"Idiots, that’s not how it works",True,1,
+Favorite exchange,I wonder what can zachxbt do lol,True,1,
+Favorite exchange,If you are dumb enough to buy into anything with trumps name on it you deserve to lose your money,True,1,
+Favorite exchange,"Allegedly, Justin Sun was blocked for dumping tokens and creating constant downward pressure on the token price.  Who knows whats actually happening.",True,1,
+How to mining Bitcoin options ?,If you mine Bitcoin what is the companys legit vendors and hosting companys ? ,False,0,
+How to mining Bitcoin options ?,"You may want to check out r/BitcoinMining/
+
+Edit: [apparently they have BTC maxi mods over there](https://np.reddit.com/r/BitcoinMining/comments/1n6nidm/rbitcoinmining_and_rcryptomining_just_got_married/)
+
+>   Ps, yes r/BitcoinMining will retain its BTC-maxi stance by default",True,1,
+Node take over?,Could an evil government just start a butt tonne of nodes and F up Bitcoin?,False,2,
+Node take over?,"No they can't, because the Bitcoin network is not ruled by nodes but by mining nodes that provide Proof of Work (spend money on electricity)
+
+BTC maxis are believing and spreading a lie.",True,9,
+Node take over?,"Not really a worthwhile attack, since nodes don't do much by themselves, and misbehaving nodes can get banned by the rest of the network.
+
+Now, [if you take over a core development team, essentially you can wreak more havoc ...](https://www.hijackingbitcoin.com/)",True,8,
+Node take over?,"only mining nodes do count, and if you manage to get 51% of the PoW hashrate, then you may be able to f\*ck it up",True,5,
+Node take over?,"It’s called a Sybil attack and it was how segwit was allowed in and necessitated the contentious fork. 
+
+Before the contentious fork there was a period of signaling from nodes.  ABC was gaining share until magically a bunch of nodes spun up signaling Core. Presto. The narrative was that Core is the true bitcoin and kept the ticker.",True,4,
+Node take over?,theoretically yes...practically no.,True,2,
+Node take over?,Adoption in newspeak does not mean they accept it as payment.... It means they buy it to gamble to sell it for more dollars later.,True,5,
+Node take over?,"The only companies I really see buying it are zombie corporations make a last ditch effort to avoid irrelevance.
+
+Any serious company with an actual business is avoiding it like Meta and Microsoft whose shareholders (including BlackRock btw, they hold a lot of their shares) voted massively against it.",True,3,
+Node take over?,in former times we cheered adoption when Bitcoin was accepted as a method of payment (without 3rd pty involved),True,3,
+Pulse,https://pulse.social/pulse/invite-friends-group/?castID=1579522&referralCode=JNCN98&referralGroup=30727,False,0,
+Pulse,\# 3,True,2,
+Pulse,What bank?,True,1,
+📊 Wrong Line = Lost Money?,"Have you noticed how even a small drawing error on crypto charts can lead to significant losses?
+
+I've been exploring an approach I call MicroFork lately. It's like a pitchfork, but much more aggressive: the critical level is 0.242.
+
+
+
+If the drawing is correct, you almost pinpoint the sudden reversal. If it's wrong... you immediately stop out.
+
+
+
+I'm curious:
+
+👉 Do you think such precise strategies offer real advantages, or are they too risky?
+
+👉 Is finding the ""right level"" more important, or is it reading the overall trend?",False,0,⌨ Discussion
+📊 Wrong Line = Lost Money?,Exchanges trade against their customers because they can with impunity. You can’t win.,True,2,⌨ Discussion
+📊 Wrong Line = Lost Money?,"My observation: It's very effective on short timeframes, but the margin of error is zero. It can be an opportunity for big traders and stressful for small investors. What are your thoughts? [https://youtu.be/69W8SQm1Z64](https://youtu.be/69W8SQm1Z64)",True,1,⌨ Discussion
+📊 Wrong Line = Lost Money?,If you can’t even make a Reddit post without ChatGPT I expect you’ll lose money no matter what.,True,1,⌨ Discussion
+📊 Wrong Line = Lost Money?,"Well, wrong line = War for no lost money",True,1,⌨ Discussion
+📊 Wrong Line = Lost Money?,"Dr. K's description of QUAI (as a proof of work coin with a constant energy cost) I decided to [check it out](https://qu.ai/) and bounced hard off of their landing page.
+
+Why would you make your coin out to be an AI scam?!?
+
+(A careful reading of the page shows they don't push AI at all: they just use a dot AI domain name.)
+
+Edit: the [No bullshit docs](https://docs.qu.ai/learn/introduction) explicitly mention AI:
+
+> AI economies: Energy is the primary input for computation",True,1,⌨ Discussion
+📊 Wrong Line = Lost Money?,"Not quite. Say, only 10 nations can afford the initial cost of the fusion power plants and there are only 10 PoW miners, vs., tons of individuals can afford the cost of solar panels and there are tons of miners.
+
+Anthropologically speaking, the centralization level of energy harvest also determines the politics type of a civilization.",True,1,⌨ Discussion
+Bitcoin difficulty spike 🚀,"Difficulty just jumped from ~130T to 136T in one move.
+Same machines, fewer sats. Brutal for miners, but bullish for Bitcoin’s security.",False,0,
+Bitcoin difficulty spike 🚀,"Brutal for users, because sudden reduction in hashpower on BTC means longer confirmation times, because difficulty only adjusts roughly every two weeks.
+
+Modern cryptocurrencies like Bitcoin Cash can cope much better with hashpower swings due to per-block difficulty adjustment (i.e. roughly speaking, difficulty is adjusted every 10 minutes on BCH).",True,3,
+"Do you really think the 1,786-2,000 range is the 'heart of the trend' on Schiff Pitchfork?","Recently, while working with the Schiff Pitchfork, I've observed that the price reacts very strongly, especially around the 1,786-2,000 levels.
+
+Some traders refer to this area as the ""heart of the trend.""
+
+
+
+👉 Do you think these levels are isolated, or are they part of an inherent wave logic in the markets?
+
+👉 I believe that credibility increases when confirmation is received, especially with EMA breakouts and candlestick color changes.
+
+
+
+What is your experience? Do these levels have the same effect on your chart, or are they more of a ""chance match""?
+
+https://preview.redd.it/pg4mkyx63inf1.png?width=1024&format=png&auto=webp&s=1813527890f13e9d90846dfeebf74d68c6483fd9
+
+",False,0,
+"Do you really think the 1,786-2,000 range is the 'heart of the trend' on Schiff Pitchfork?","Most traders know Fibonacci levels but don't pay attention to the 1,786-2,000 band. This is where WaveFork's true power comes in. 🚀
+
+My observation: These levels generally indicate the strongest wave in a trend. But the trick is not to rely solely on them. Entering a trade without confirmation of the EMA50 breakout, a candlestick color crossover, and the DDG/TDG is simply gambling.
+
+
+
+Which confirmation signal do you think is more critical? The EMA or the oscillators? 👇",True,1,
+"Do you really think the 1,786-2,000 range is the 'heart of the trend' on Schiff Pitchfork?",we do not share the universe,True,1,
+"Do you really think the 1,786-2,000 range is the 'heart of the trend' on Schiff Pitchfork?",Shit post,True,4,
+They Blocked My Last Post for Telling the Truth About Bitcoin Core Here’s What They Don’t Want You to See. **PLEASE READ**,"r/bitcoin, r/bitcoinbeginners and now r/cryptocurrency have all banned me THEY ARE COMPLICIT IN HIDING THE TRUTH.
+
+This is a follow-up to my earlier post on r/cryptocurrency that’s now been removed exposing the upcoming OP_RETURN changes in Bitcoin Core and the censorship happening in major subs like r/Bitcoin. If you read that, you’ll know why this matters. If not, this post will catch you up and show you just how far the gatekeeping has gone.
+
+In that post, I called out a huge change coming to Bitcoin Core that’s about to blow the OP_RETURN limit from 80 bytes to over 100,000. This isn’t just some tech tweak it means anyone could shove all kinds of junk onto the blockchain, including illegal stuff like CSAM (child sexual abuse material), explicit content, or other toxic data. And every full node you run? It has no choice but to store and serve that garbage forever, whether you like it or not.
+
+I also pointed out that Bitcoin Knots, maintained by Luke Dashjr, fights back against this and lets users keep control over what their node accepts.
+
+Instead of addressing these real concerns, r/Bitcoin banned me and slapped a “propagandist” label on me. That tells you exactly how much they want to silence anyone who doesn’t just blindly agree.
+
+Here is the response from the r/bitcoin moderators,
+
+Hello, You have been banned from participating in r/Bitcoin(https://www.reddit.com/r/Bitcoin) for 28 days because you broke this community's rules. You won't be able to post or comment, but you can still view and subscribe to it.
+
+Note from the moderators:
+
+Stop spamming misinformation in this subreddit. You clearly don't understand how bitcoin works. Kratter does not understand bitcoin on a technical level. He is not a develope, he has never submitted a commit and he just repeats what other people say. He is a propagandist. He's been getting his information about bitcoin core from mechanic, who also is not a developer, who also had never submitted a commit and who is also a propagandist. You fell for propaganda. Running Knots does not prevent spam from getting in the blockchain. 95% of nodes could be Knots and it would not stop spam from getting in the blockchain. You can come back in a few weeks, wipe the egg off your face and see that bitcoin is still here like normal. Now stop spamming this sub with misinformation.
+
+Now since you won’t give me the chance to respond to you on a public forum such as r/bitcoin I am forced to do this here. Here is what I have to say.
+
+1.	⁠“You clearly don’t understand how Bitcoin works.”
+
+This is not an argument. It’s a lazy dismissal used when someone doesn’t want to engage in honest discussion. Bitcoin was designed to be a system where anyone can verify the rules not just those who contribute to the GitHub repo. Saying someone “doesn’t understand Bitcoin” because they’ve never submitted a commit is the exact elitist mindset Bitcoin was built to reject.
+
+You do not need to be a Core developer to understand the implications of putting arbitrary data on a blockchain. You need logic and a grasp of what it means to operate a decentralized, permissionless financial system that persists across borders and jurisdictions.
+
+2. “Kratter and Mechanic are not developers and have never submitted commits, so they don’t understand Bitcoin.”
+
+This is a classic appeal to authority fallacy. Bitcoin is not a dictatorship run solely by Core developers. It’s a network of users, node operators, businesses, and yes, enthusiasts and researchers who critically analyze and discuss the protocol. Understanding Bitcoin deeply does not require commit access. It requires careful study, analysis, and participation.
+
+Matt Kratter and Mechanic have spent years researching, explaining, and engaging with Bitcoin’s technical details and policy debates. They break down complex changes for the community in ways that are accessible but grounded in facts. To label them “propagandists” because they don’t write code is dismissive and closes the door to any critical voices outside your small inner circle.
+
+3. “You fell for propaganda from people who aren’t developers.”
+
+So only developers can criticize the software? Only those with commit access are allowed to point out risks? That’s not how decentralized systems work. Bitcoin is not a devocracy. It’s a network of users who enforce consensus rules by running their own nodes. Everyone running a node is participating in Bitcoin governance, and their opinions especially about what data they’re required to store matter.
+
+Calling dissent “propaganda” is what centralized regimes do when they want to shut down uncomfortable truths.
+
+4. “Running Bitcoin Knots won’t stop spam from entering the blockchain.”
+
+This is a textbook strawman. No one said Knots prevents spam from entering the blockchain by itself. What it does is give users choice over which policies they follow and what their node relays and accepts in the mempool. Knots maintains sane, conservative default settings and refuses to blindly follow every policy update pushed through Core without broad consensus.
+
+That’s not propaganda. That’s how Bitcoin is supposed to work: users choosing which rules to enforce.
+
+When Core begins accepting arbitrarily large data payloads via OP_RETURN, and when it removes the safeguards that kept non-transactional data limited, the entire network is affected. Every full archival node must now store and serve that data. The fact that Bitcoin Knots refuses to default to that behavior is exactly why it exists. It’s not a patch. It’s a protective fork to keep Bitcoin from being misused as a decentralized dumpster for non-monetary content.
+
+5. “This is misinformation.”
+
+What specifically is misinformation? The OP_RETURN limit is being raised. The filtering of non-standard data is being weakened. Developers have discussed and moved forward with this without broad community involvement or explanation to the wider user base. This is all public information, available in GitHub issues and mailing list discussions.
+
+The reason you won’t address the actual facts is because you know they’re correct and you’d rather paint them as “misinformation” to shut down the conversation.
+
+6. “You can come back in a few weeks and see that Bitcoin is fine.”
+
+This is not reassurance. This is willful ignorance. You’re hoping no one notices the damage until it’s irreversible. That’s how critical decisions get slipped through: with silence, censorship, and minimization.
+
+Bitcoin will survive this month. That’s not the point. The point is what happens over time when you allow the blockchain to become a permanent data sink, vulnerable to abuse, legal scrutiny, and bloated infrastructure requirements that exclude everyday users from running full nodes.
+
+You call it “fear-mongering.” But refusing to acknowledge precedent like explicit, illegal content already stored on-chain is not optimism. It’s negligence.
+
+7. Why people are choosing Bitcoin Knots
+
+They’re not choosing Knots because they think it can magically fix Bitcoin. They’re choosing it because it gives them back control. Because it doesn’t silently adopt every policy change from Core. Because it warns users before pushing experimental features that can have permanent consequences.
+
+And most of all: because it listens to the community, not just to the few individuals with commit access.
+
+Knots is now around 20% of reachable nodes. That’s not a fluke. It’s a growing segment of the network pushing back against quiet centralization and decisions being made without transparent, ecosystem-wide discussion.
+
+Bitcoin Core is not Bitcoin. The users are.
+
+If you’re banning people for asking difficult questions, suppressing valid warnings, and throwing around ad hominems instead of engaging with the issues, you’re not protecting Bitcoin. You’re gatekeeping it.
+
+And that’s exactly what the community was warned about from day one.",False,23,⚠️ Alert ⚠️
+They Blocked My Last Post for Telling the Truth About Bitcoin Core Here’s What They Don’t Want You to See. **PLEASE READ**,"It’s not like these idiots don’t already have a precedent; BSV blockchain data renderers have to manually block parsing certain parts of the blockchain because of banned and illegal content.
+
+But their -Core- intention has always been to destroy Bitcoin or force it into regulation, so actually they know *exactly* what they’re doing.",True,18,⚠️ Alert ⚠️
+They Blocked My Last Post for Telling the Truth About Bitcoin Core Here’s What They Don’t Want You to See. **PLEASE READ**,"In my opinion the Knots-supporting faction is going about it the wrong way, and won't succeed like this, because they will eventually need miner (and big business) support and instead they seem to be dismissing the importance of the miners.
+
+They ought to fork the Core client in a cleaner way than Knots, and make sure they put only minimal changes in that they need, and then get miners to support them in running this better software.
+
+The appeal to miners has mixed chances of success, but if anything would succeed, it should base on the damage these upcoming Core changes could reasonably be expected to do to miner earnings and the value of the network. Let's say if illegal and repulsive data is mined onto the chain in a big way and governments feel they need to take action. I think that is a legitimate concern, and as others have mentioned in this thread, BSV clearly illustrates that bad actors will gladly abuse such vulnerabilities to store data to damage the reputation of a Bitcoin network.",True,14,⚠️ Alert ⚠️
+They Blocked My Last Post for Telling the Truth About Bitcoin Core Here’s What They Don’t Want You to See. **PLEASE READ**,"Man, I have some Dejavu right now, it‘s wild.",True,9,⚠️ Alert ⚠️
+They Blocked My Last Post for Telling the Truth About Bitcoin Core Here’s What They Don’t Want You to See. **PLEASE READ**,BCH? Better?,True,9,⚠️ Alert ⚠️
+They Blocked My Last Post for Telling the Truth About Bitcoin Core Here’s What They Don’t Want You to See. **PLEASE READ**,"> Bitcoin is not a dictatorship run solely by Core developers.
+
+Oh but it is.
+
+I have my own idea of how blocksize and OP_Return should work, but since any criticism is censored I moved on.",True,8,⚠️ Alert ⚠️
+They Blocked My Last Post for Telling the Truth About Bitcoin Core Here’s What They Don’t Want You to See. **PLEASE READ**,No one here cares about BTC crazies any more.,True,8,⚠️ Alert ⚠️
+They Blocked My Last Post for Telling the Truth About Bitcoin Core Here’s What They Don’t Want You to See. **PLEASE READ**,"do people like you not understand you've always been able to do this?
+
+
+You can make a transaction with garbage p2sh outputs that encode your data. Nodes are then also forced to never prune thst data because its a utxo. At least with op return trxs its more transparent, ""hey this is garbage u can delete it.""",True,8,⚠️ Alert ⚠️
+They Blocked My Last Post for Telling the Truth About Bitcoin Core Here’s What They Don’t Want You to See. **PLEASE READ**,"What I don't understand is why you're still beating your head against a wall about BTC.  The fact that you can't speak out at all has to speak volumes.  And it's been that way for 10 years.  That fork has been compromised.  It's not some tinfoil hat B.S., it's the only reasonable explanation for how things have gone down since Blockstream hit the seen.  If you love Bitcoin and want to support it what you want already exists with the ticker BCH.",True,6,⚠️ Alert ⚠️
+They Blocked My Last Post for Telling the Truth About Bitcoin Core Here’s What They Don’t Want You to See. **PLEASE READ**,"The whole thing is a house of cards and you haven't got to worry about warning anyone, the true believers will go down with the ship. 
+
+I just come to these subs for a good laugh each day. Never lets me down.",True,8,⚠️ Alert ⚠️
+They Blocked My Last Post for Telling the Truth About Bitcoin Core Here’s What They Don’t Want You to See. **PLEASE READ**,That's why Bitcoin Cash forked in 2017. You are a decade late to discovering that that chain is totally controlled and sabotaged. It is intentionally run that way so that it cannot function as decentralized money.,True,6,⚠️ Alert ⚠️
+They Blocked My Last Post for Telling the Truth About Bitcoin Core Here’s What They Don’t Want You to See. **PLEASE READ**,"If you are not banned on Bitcoin sub, then there is a problem with you already. So, do you think we care abt. Bitcoin ponzi? Personally, I don’t. So let it get rekt with 100k thing, or institutions, or whatever the reason. It will blow up somehow. We’ll see anyway.",True,2,⚠️ Alert ⚠️
+They Blocked My Last Post for Telling the Truth About Bitcoin Core Here’s What They Don’t Want You to See. **PLEASE READ**,"Reminds me of the monty python sketch, the messiah ...
+
+Didn't we lose the original plot like 3 cycles ago now when it was already around 500$ or whatever.",True,2,⚠️ Alert ⚠️
+They Blocked My Last Post for Telling the Truth About Bitcoin Core Here’s What They Don’t Want You to See. **PLEASE READ**,"there is nothing sane or conservative about dropping pending transactions that are valid and will most likely get confirmed. it makes your node run inefficiently and it makes your fee estimation incorrect. being able to selectively pretend a valid pending transaction does not exist is not going to help you in any way and it is not something that should be configurable at all.
+
+if you hate ""spam"" so much, just do a goddamn fork already. make the transactions you don't like invalid in consensus. stop playing these stupid games and going through all this pretzel logic. just do it already. if you are so convinced the community wants this, it would work.",True,4,⚠️ Alert ⚠️
+They Blocked My Last Post for Telling the Truth About Bitcoin Core Here’s What They Don’t Want You to See. **PLEASE READ**,"Too funny. Those arrogant, dissmissive assholes at core think they are gods. Everyone discovers it eventually. Just move on. There are alternatives. 
+
+Personally I think that the future of crypto happens AFTER BTC dies, and money starts flowing into other far more useful areas.",True,1,⚠️ Alert ⚠️
+They Blocked My Last Post for Telling the Truth About Bitcoin Core Here’s What They Don’t Want You to See. **PLEASE READ**,Write on Bitcoin without interruption theblocknote.eth.link,True,1,⚠️ Alert ⚠️
+They Blocked My Last Post for Telling the Truth About Bitcoin Core Here’s What They Don’t Want You to See. **PLEASE READ**,"Didn't know anything about this.  Gave on the project years ago.  Forked and moved on.
+
+This is pretty interesting though.  My first impression is that this sounds like a method to further control the transaction rate beyond what freezing the block limit did.  
+
+The NWO wants to choke the thing of completely because of some political agenda at some specific time and all they need to do is ""anonymously"" send some small but bloated transactions into the queue until they change their name.
+
+What do ya'll think?  Is this what he is describing or am I misunderstanding?",True,1,⚠️ Alert ⚠️
+They Blocked My Last Post for Telling the Truth About Bitcoin Core Here’s What They Don’t Want You to See. **PLEASE READ**,I'm curious what happened to your previous post in this sub? Did you delete it yourself? Why? You seem to have learned nothing from the many informed replies there.,True,1,⚠️ Alert ⚠️
+They Blocked My Last Post for Telling the Truth About Bitcoin Core Here’s What They Don’t Want You to See. **PLEASE READ**,With a high speed and reliable internet connection I don’t see this huge drain on resources the filters are warning will happen rendering running a node nearly impossible,True,1,⚠️ Alert ⚠️
+They Blocked My Last Post for Telling the Truth About Bitcoin Core Here’s What They Don’t Want You to See. **PLEASE READ**,BTC is worthless tripe. A pyramid scheme only.,True,1,⚠️ Alert ⚠️
+They Blocked My Last Post for Telling the Truth About Bitcoin Core Here’s What They Don’t Want You to See. **PLEASE READ**,You're probably the same type who thinks ordinals is an attack on the network.,True,0,⚠️ Alert ⚠️
+They Blocked My Last Post for Telling the Truth About Bitcoin Core Here’s What They Don’t Want You to See. **PLEASE READ**,"Wow. Didn't even bother to read
+
+Get off the Tweed. Wow, para
+
+If you gave that much to say your are saying the wrong thing and did the wrong thing",True,-5,⚠️ Alert ⚠️
+Participants for a survey needed!,"Hello everyone! I am conducting a survey for my thesis on cryptocurrency to investigate the social and psychological factors that influence investors when deciding to buy, sell, or hold digital assets. The survey is online and consists of 14 open-ended questions, designed to capture your personal experiences and thoughts. I would be very grateful if you are interested in participating and sharing your insights. You can leave a comment here or message me privately. Thank you so much for your time and support!",False,0,🤔 Opinion
+Participants for a survey needed!,Love how a survey about Cryptocurrency is considered off-topic over in r/Bitcoin.,True,2,🤔 Opinion
+Participants for a survey needed!,I'm in.,True,1,🤔 Opinion
+On Comparing Bitcoin with Gold,"Both gold and Bitcoin have excellent stock-to-flow in comparison to fiat money. Two good tools for savings, but I choose the digital one
+
+Gold can not be:
+
+* used to host uncensorable speech
+
+* multisigned
+
+* crossing borders as 12 words in one's head
+
+* cheaply verified independent from transaction amount
+
+* settled internationally within an hour
+
+* foundation for proof-or-reserves with an off-chain signed message
+
+* timelocked
+
+Correct multisignature setup make bitcoins completely secure from any form of theft: govt or $5 wrench. Unfortunately, even less popular than self-custody, Bitcoin Cash branch of Bitcoin included
+
+It is completely understandable that emergent generational divide is present, and that a lot of people will live to the end using gold for savings. Bitcoin technology is abstract, digital, securing private keys is not easy. It is not as ubiquitous as computer technology where some gold users, especially in the 1st world, are fine with plastic as proxy, to watch web-accounts and pay through terminals",False,0,🤔 Opinion
+On Comparing Bitcoin with Gold,"The thing is that there is nothing special about BTC, other than it was there first. There are many, many other coins that have exactly the same properties. As people get more familiar with it they come to realise that there are other things that might have the same exponential rise that BTC had from start to now. BTC isn’t doing that again, and the fact that it is currently expensive doesn’t make it a good investment in itself. People look to invest in things that will grow, not just because they are expensive now.",True,6,🤔 Opinion
+On Comparing Bitcoin with Gold,"Gold has been protecting regular folks from politicians, bureaucrats and bankers for thousands of years and will still be doing so long after Bitcoin is gone and forgotten.  
+
+Bitcoin has been a great ride for sure, but I'm just about to dip out of here while the dipping is still good and use it to stoke the gold pile. Cheers!",True,3,🤔 Opinion
+On Comparing Bitcoin with Gold,Crypto relies on a functioning internet which can be centrally disabled and/or censored.  Gold does not.,True,2,🤔 Opinion
+On Comparing Bitcoin with Gold,"You've gained a follower. You seem to say what I'm trying to say, more clearly, concisely maybe even more eloquently, than myself. I get into trouble with the way I say and present things.",True,1,🤔 Opinion
+On Comparing Bitcoin with Gold,"If bitcoin hits 10M per token then miners would earn 4.5 BILLION USD worth per day.
+
+There is no way 10 million is possible with this kind of wealth extraction outflow.
+
+The reason why price is struggling to go higher is because miners are pulling out over 50 million per day today.  This means a sustained net inflow of 50 million per day is required just for price to tread water.  Good luck with that.
+
+The higher price goes the higher the miner reward goes.  It’s self regulating.",True,1,🤔 Opinion
+On Comparing Bitcoin with Gold,"Despite the downvotes, it's clear the conversation is about other cryptocurrencies since Bitcoin and Ethereum already have ETFs. This is fantastic news for Bitcoin Cash and could significantly boost its value over time.
+
+Once these ETFs are established, options will likely be added, providing opportunities for income generation through covered calls and other strategies. For market makers and merchants, both spot ETFs and options will offer greater hedging capabilities and encourage wider adoption for global commerce.",True,2,🤔 Opinion
+On Comparing Bitcoin with Gold,"Indeed. And the sheer irony of maxis complaining they‘re being censored and their feedback ignored by BSCore is beyond palpable. It‘s got the very, very sweet taste of comeuppance.
+
+When we say BTC has cultural and structural issues. That is what that means. You got a culture that is hostile and unproductive, that‘s guaranteed to result in decisions that hurt BTC. When maxis proudly pounded their chest of winning the blocksize wars, we wept for them, because we knew they lost everything that mattered except the ticker.
+
+And the cherry on top of this whole mess is, these maxis still believe their non mining node has any say about consensus and that‘s how they‘re gonna fight that one… owwww my sides 🤣",True,8,🤔 Opinion
+On Comparing Bitcoin with Gold,What's the better choice? BCH? LTC? ETH? Something else?,True,2,🤔 Opinion
+On Comparing Bitcoin with Gold,The greater fool theory confirmed,True,0,🤔 Opinion
+On Comparing Bitcoin with Gold,Hell ye #3!,True,2,🤔 Opinion
+On Comparing Bitcoin with Gold,"Yep, #3. The rest is private money, not open blockchains. Since 2022 one has to get ETH from someone else to join the network, it was closed off",True,0,🤔 Opinion
+On Comparing Bitcoin with Gold,"Which source?
+
+[CoinGecko](https://www.coingecko.com/) ranks it 19th.",True,1,🤔 Opinion
+On Comparing Bitcoin with Gold,Back in the top 3 if you only count coins with the letter “B” in it,True,-1,🤔 Opinion
+On Comparing Bitcoin with Gold,"r/BitcoinCash what a wonderful sub, please fuck off to over there.",True,-4,🤔 Opinion
+On Comparing Bitcoin with Gold,"Yet it’s still getting beat by fucking DOGE. Yes, BCH is a better currency than BTC, but you shills really need to just accept the fact that nobody actually cares. It was obvious that BCH lost 5+ years ago.",True,-6,🤔 Opinion
+On Comparing Bitcoin with Gold,"Quoting the coinfeeds-bot from r\/cc from where this has been cross-posted (for the lulz)
+
+> tldr; Justin Sun, founder of Tron, has accused World Liberty Financial (WLFI) of unfairly freezing his 2.9 billion tokens despite his $75 million investment as the largest outside backer. WLFI claims the freeze was due to suspicious exchange activity linked to Sun, which allegedly caused a significant price drop. Sun denies selling tokens and argues the freeze undermines blockchain principles of fairness and transparency. The dispute has divided the WLFI community, raising broader concerns about decentralization, governance, and trust in the crypto space.
+
+> \*This summary is auto generated by a bot and not meant to replace reading the original article. As always, DYOR.
+
+Original thread link: https://np.reddit.com/r/CryptoCurrency/comments/1n8zrc2/justin_sun_responds_to_world_liberty_financial/",True,3,🤔 Opinion
+On Comparing Bitcoin with Gold,"Karma is a b*tch, Justin.",True,2,🤔 Opinion
+Permanently banned from r/Bitcoin for a popular post.,"Just got a message today from r/Bitcoin mods saying I am permanently banned for breaking community rules. Looks like the censors have coopted our movement that is supported to be about freedom and the right to expression. Here is a link to the [offending post](https://www.reddit.com/r/Bitcoin/comments/1n573yg/helpful_people_in_rexpats_informed_me_that_using/) that currently has 228 upvotes, 89 comments, and 66k views. I have been here since the very beginning and have paid a very high personal cost so this is especially sad to see. ",False,48,
+Permanently banned from r/Bitcoin for a popular post.,welcome to the club - take it as a badge of honour,True,37,
+Permanently banned from r/Bitcoin for a popular post.,"Dude that sub is narrative controlled since 2015-2017. But I don't know what set them of this time. Usually it is about Big Blocks that has them shit their pants. Anyway, they are anti use Bitcoin, only invest....",True,9,
+Permanently banned from r/Bitcoin for a popular post.,"Just out of interest, what was their reasoning? They must have given you something and hopefully more than, you broke our rules. 
+
+I saw the post the other day and have no idea what you would have been banned for.",True,8,
+Permanently banned from r/Bitcoin for a popular post.,What rule did you break?,True,5,
+Permanently banned from r/Bitcoin for a popular post.,"Ah welcome, I got banned there last week and I don't even post there.
+
+Someone didn't like the way I talked to them here and they probably snitched and/or are associated with the mod team in some way.
+
+The uncensored money sure needs a lot of censorship to support its cause.",True,3,
+Permanently banned from r/Bitcoin for a popular post.,"This is actually r/northcoreon working as intended. They exist to prevent people from using crypto. You being banned from it is not punishment, they actually just gave you important advice about which coin is a dead cripplecoin walking, and which one is the real Bitcoin.",True,3,
+Permanently banned from r/Bitcoin for a popular post.,"Censorship is real...
+
+
+They only want push Bitcoin the highest possible 
+No place for others crypto even better as BCH
+
+
+THEY DON'T CARE ABOUT WHITE PAPER
+
+THEY DON'T CARE ABOUT PRIVACY 
+
+THEY DON'T CARE ABOUT FREEDOM TO TRADE WITHTOUT BANKGSTERS
+
+
+THEY ONLY WANT TO EARN MONEY 
+
+PURE GOLD DIGGER CENSORSHIPPERS BTC MAXIMALIST 
+
+Fact",True,3,
+Permanently banned from r/Bitcoin for a popular post.,Did they say which of the rules?,True,2,
+Permanently banned from r/Bitcoin for a popular post.,"What exactly did you say?
+
+I have posted all sorts of swear words there and never got banned. They are not censoring swear words or complaints about the government.
+
+If you travel around the world, usually swear words and government complaints are censored.",True,2,
+Permanently banned from r/Bitcoin for a popular post.,What a weird thing to be banned for. It’s even stupider than the expats telling you using BTC is unethical hahahah. Buncha weirdos.,True,2,
+Permanently banned from r/Bitcoin for a popular post.,Your post is conventional wisdom. Its THE ise case for Bitcoin,True,2,
+Permanently banned from r/Bitcoin for a popular post.,"Thankfully, this group has been very tolerant of discourse, and I am glad of it, I tip my hat to you all!",True,2,
+Permanently banned from r/Bitcoin for a popular post.,"I posted a link to a substack article I wrote that DARED to acknowledge the existence of Ethereum and the comment got deleted because of this.
+
+I am, however, confused about how the mods justified the ban for you? What did the ban text say?",True,1,
+Permanently banned from r/Bitcoin for a popular post.,The mods of that subreddit are definitely woke or karens,True,1,
+Permanently banned from r/Bitcoin for a popular post.,You helped them sleep better that night... that counts for something ig,True,1,
+Permanently banned from r/Bitcoin for a popular post.,That one is strange. Normally it's very clear that op is trolling Bitcoin and then act surprised they are banned. This one I assume they think you were suggesting money laundering but not sure,True,0,
+Permanently banned from r/Bitcoin for a popular post.,"Another option for reviewing removed content is your ***Rev***eddit [user page](https://www.reveddit.com/y/x!o!s!a!s!a!o!x?all=true). The [real-time extension](https://www.reveddit.com/add-ons/direct/) alerts you when a moderator removes your content, and the [linker extension](https://www.reveddit.com/add-ons/linker) provides [buttons](https://i.imgur.com/0BAImPq.png) for viewing removed content. There's also a [shortcut for iOS](https://www.icloud.com/shortcuts/62bc7570613c42cb8b851fad264136df).
+
+The parent commenter can reply with 'delete' to remove this comment. This bot only operates in authorized subreddits. To support this tool, [post it on your profile](https://old.reddit.com/user/me/submit?title=See+which+comments+of+yours+have+been+removed&url=https%3A%2F%2Fwww.reveddit.com%2Fabout%2F) and select ['pin to profile'](https://i.imgur.com/uq9AGMV.png).
+
+&nbsp;
+
+[^(F.A.Q.)](https://www.reveddit.com/about/f.a.q./) ^| [^(v/reveddit)](https://www.reveddit.com/v/reveddit/-redirect) ^| [^(support me)](https://www.reveddit.com/about/donate) ^| [^(share)](https://old.reddit.com/user/me/submit?title=See+which+comments+of+yours+have+been+removed&url=https%3A%2F%2Fwww.reveddit.com%2Fabout%2F) ^& [^('pin to profile')](https://i.imgur.com/uq9AGMV.png)",True,0,
+Permanently banned from r/Bitcoin for a popular post.,"You're going to hate me for this, but I somewhat agree with the ban. You're clearly an agitator just trying to stir up drama, so I get it. 
+
+That being said, under the old way of doing things, just simply ""somewhat"" agreeing with the ban is not enough to continue with the ban. I would have pushed back against it. 
+
+-former /r/Bitcoin mod",True,-3,
+Permanently banned from r/Bitcoin for a popular post.,"Same here, Roger Ver banned me everywhere for calling BCH a shitcoin.",True,-4,
+Permanently banned from r/Bitcoin for a popular post.,"Market makers out of leverage? too many open shorts on spot BCH, they cant afford to arbitrage BCH anymore, or they have outright short positions on BCH, and dont care about arbitrage. If BCH continues to rise over time despite the massive shorts, eventually the market makers and insider trading exchanges may face massive losses. 
+
+Shorting a scarce asset like BCH is just plain stupid.
+
+Real-time data from spot exchanges shows a significant drop in Bitcoin Cash (BCH) balances. This decline, combined with smaller buy orders, is causing major price spikes. While futures contracts can handle supply and demand because they are based on ""paper"" BCH, the spot market is experiencing a complete depletion of available BCH.",True,5,
+Permanently banned from r/Bitcoin for a popular post.,"Seems like an appropriate discount (maybe a little light) to be stuck in a Grayscale trust with their fees. Even when it converts to an ETF, theirs will have the highest fees to milk the long-term holders who don’t want to sell for tax reasons. I wouldn’t touch Grayscale / DCG.",True,2,
+Sep 5 | CoinEx Daily news,"Sep 5 CoinEx Daily 📊 #CryptoNews
+
+1️⃣  Bitcoin Stats
+$BTC faces headwinds as US macroeconomic news turns bearish, with a weak ADP report data increasing expectations for a Federal Reserve rate cut, intensifying pressure on risk assets.
+
+2️⃣  Token to Watch
+$MPLX $0.2691 +22.71%
+$NOBODY $0.0798 +22.61%
+
+3️⃣  Daily Focus
+- Overall crypto market capitalization fell by 1.8% over the past 24 hours, reflecting broad declines across altcoins.
+
+-Regulatory debate continues, as the SEC proposes new safe harbor rules for crypto.
+
+Stay informed with insights on #CoinEx",False,3,
+"bitcoin just reclaimed key resistance and analysts are calling for a ""massive move"" - shorts getting liquidated hard","btc touched $112,900 this morning and the technical setup is looking explosive. we're seeing key resistance levels flip to support and short liquidations are piling up.
+
+the liquidation carnage
+
+$14.32 million in btc short positions got liquidated within one hour as price broke back above $112k. shorts are getting absolutely destroyed and there's clear rotation out of bearish positions heading into us jobs data.
+
+key levels everyone's watching
+
+$112k is the critical level - michael van de poppe calling it ""another massive long opportunity"" if we break above. rekt capital says $113k needs to be reclaimed to ""fully confirm the breakout"".
+
+the liquidity zones are sitting at $111,500-$113,000 with more clusters extending to $115k. if we clear these levels, the next move could be violent.
+
+macro catalyst building
+
+us jobs report drops today and traders are expecting it could show labor market weakness. 99.4% probability of 25bp fed rate cut in september according to cme fedwatch.
+
+here's the setup: weak jobs data -rate cut certainty -risk-on rally. ""the us now has more unemployed people than job openings"" - this could force fed's hand.
+
+technical momentum shifting
+
+analyst skew noted ""$100m bought back"" and ""clear rotation out of shorts"". the bid depth held and we're seeing real demand step in above $110k support.
+
+if jobs data comes in weak as expected, we could see the perfect storm of technical breakout + macro catalyst driving the next leg higher.
+
+the bigger picture
+
+this feels like the moment where macro and technicals align. shorts are trapped, institutions are positioned for rate cuts, and we're testing the upper bounds of this consolidation range.
+
+either we break out here and see that ""massive move"" analysts are calling for, or we reject again and test lower support. but with fed policy turning dovish and technical momentum building, the odds favor the bulls.
+
+what's your take? is this the breakout above $112k that sets up the next major rally or just another false break before more chop?",False,0,
+"bitcoin just reclaimed key resistance and analysts are calling for a ""massive move"" - shorts getting liquidated hard",lol,True,4,
+"bitcoin just reclaimed key resistance and analysts are calling for a ""massive move"" - shorts getting liquidated hard","today morning GMT BCH/BTC showed a Flag in the 4h chart, outbreak has followed - enjoy !",True,2,
+"bitcoin just reclaimed key resistance and analysts are calling for a ""massive move"" - shorts getting liquidated hard","Honestly the guy is odd to say the least, the mods tolerate him as much as they tolerate me so I guess that’s ok",True,10,
+"bitcoin just reclaimed key resistance and analysts are calling for a ""massive move"" - shorts getting liquidated hard","Sorry, I am losing my brain here, but it is OK, I am getting old, you know ?",True,2,
+"bitcoin just reclaimed key resistance and analysts are calling for a ""massive move"" - shorts getting liquidated hard","If I dragged every stupid shit Maxis have said in this sub to its own topic I would not be finished in month.
+
+That does not mean I support the guy. It's counterproductive and gives people like you an easy target.",True,2,
+"bitcoin just reclaimed key resistance and analysts are calling for a ""massive move"" - shorts getting liquidated hard",That guy is insane,True,3,
+"bitcoin just reclaimed key resistance and analysts are calling for a ""massive move"" - shorts getting liquidated hard","Let's compare hash rate and determine which Blockchain has superior settlement finality. At the end of the day, the chain with the greatest security, that is, settlement finality, wins. I'll wait.",True,-1,
+"bitcoin just reclaimed key resistance and analysts are calling for a ""massive move"" - shorts getting liquidated hard","So typical of many of the bch folks here, I was chatting with a couple of others just the other day.  It's always the same unreaschered and biased info from them.
+
+Maybe someday they will move away from emojis and Roger's book as their primary communication tool and source of info.",True,0,
+"bitcoin just reclaimed key resistance and analysts are calling for a ""massive move"" - shorts getting liquidated hard",Dude is definitely built different. Got into a thread with Mr Interesting a while ago and gave up. Very unique individual. Love the profile pic too,True,1,
+"bitcoin just reclaimed key resistance and analysts are calling for a ""massive move"" - shorts getting liquidated hard",Lmao. In before he posts another link to Ver's book.,True,0,
+"bitcoin just reclaimed key resistance and analysts are calling for a ""massive move"" - shorts getting liquidated hard",I see the FUD BCH bots are still in full effect! ,True,-2,
+"bitcoin just reclaimed key resistance and analysts are calling for a ""massive move"" - shorts getting liquidated hard","😂😂😂 The more I see this guy comments, the more I'm sure he is Roger Ver. What a complete moron.",True,-5,
+"bitcoin just reclaimed key resistance and analysts are calling for a ""massive move"" - shorts getting liquidated hard","Taking advantage of people's intellectual insecurities is how covid vaccines and testing were so profitable.
+
+Call someone stupid or insert your favorite 'ism/phobe to really have full control.",True,-2,
+BCH Mining/Node Made Easy?,"Hello there!  Does anyone know of a site that sells pre-made hardware, with pre-loaded BCH software, and easy to understand instructions?  That way one can fairly easily setup and start running their own node?",False,4,🎓 Education
+BCH Mining/Node Made Easy?,"Maybe ask in r/bitcoincash or the telegram channel. People are more active on Telegram these days. 
+
+Do you have cheap electricity or do you just want to mine for fun?",True,3,🎓 Education
+BCH Mining/Node Made Easy?,Sounds like a good way to get robbed of any coin.. they can just export your keys and take coin later.,True,1,🎓 Education
+BCH Mining/Node Made Easy?,"Everything is leading people to big blocks finally, only the manipulated price keeps suckers and moonboys on the crippled version of bitcoin.",True,13,🎓 Education
+BCH Mining/Node Made Easy?,Glad they finally realize :|,True,4,🎓 Education
+BCH Mining/Node Made Easy?,Truth,True,3,🎓 Education
+BCH Mining/Node Made Easy?,"If the creator of Nostr is so anti LN then why is there not support for any other payment method than btc and LN.
+
+I’ll just ask him. u/fiatjaf",True,3,🎓 Education
+BCH Mining/Node Made Easy?,we use LN just fine in Costa Rica,True,1,🎓 Education
+BCH Mining/Node Made Easy?,"In my experience Lightning works great today, to be fair it used to be horrible, but now with things like AlbyHub, or even Spark and Liquid, using Lightning just works, the network has grown a lot throughout the years.
+
+Fiatjaf is not representative of the broader network and he always hated zaps from the get go.",True,-5,🎓 Education
+BCH Mining/Node Made Easy?,🤝,True,3,🎓 Education
+Trading without indicators = bare chart. Does that make sense?,"My experience: Beginners often get confused by using 5-10 indicators at once. However, a single correct scenario + 1-2 indicators = much clearer results. 👉 Which do you think is the best indicator for beginners? EMA or VWAP?",False,0,❓ Question 
+Trading without indicators = bare chart. Does that make sense?,"The indicators I usually look to when market making to avoid spread are recent peaks (when selling) or dips (when buying).
+
+The more aggressively I want to trade: the more recent the peak that I try to match.
+
+Recently I was liquidating stuff so looking back on a time scale of about a day.",True,2,❓ Question 
+Trading without indicators = bare chart. Does that make sense?,I tried to summarize the topic [https://youtu.be/toPFeGtKpGI](https://youtu.be/toPFeGtKpGI),True,1,❓ Question 
+Trading without indicators = bare chart. Does that make sense?,Stop spamming your YouTube channel you 🧌,True,1,❓ Question 
+Bitcoin Is Being Poisoned From Within.,"I don’t think enough people are paying attention to what’s happening with Bitcoin Core right now and it’s something everyone running a node needs to know about
+
+There’s a big change coming in October that will raise the OP_RETURN data limit from 80 bytes up to 100 thousand bytes or more. If you’re new to Bitcoin, OP_RETURN is the part of a transaction where people can add extra data that is not related to moving bitcoin around. This was always kept very small to prevent the blockchain from being misused and to keep Bitcoin focused on money instead of becoming a permanent storage layer for unrelated content
+
+Now the plan is to remove those limits and get rid of the filters that previously stopped non-standard data from flooding the network. This is serious because it means much larger pieces of arbitrary content can now be added directly to the blockchain. This is permanent and every full node stores this data forever. This is not a theory. In the past, sensitive and highly inappropriate material has been inserted into the blockchain. It was often disguised or encoded but these changes make it much easier for bad actors to insert content that could create serious problems for node operators
+
+If you are running a full node with Core software especially if it is an archival node your computer will store and process this content automatically without you even knowing what is in it. In many places this could put users at risk depending on what is being stored. Most people running nodes have no idea this is even possible but it is now a very real issue
+
+Some of the developers behind Core have started pushing these changes through without broad agreement. Not all of them but enough that it is causing concern. They are moving fast and ignoring feedback from parts of the community who have tried to raise issues and ask for more discussion. Comments on GitHub are reportedly being removed and those who have spoken out have had their input shut down. Luke Dashjr who maintains Bitcoin Knots has been very vocal about this and has warned for years about what these kinds of changes could do to the future of the network
+
+Bitcoin Knots is an alternative full node software that keeps those important protections in place and does not automatically accept risky policy changes. It is maintained by Luke Dashjr who has a long history of standing up for Bitcoin’s core principles. Knots is fully compatible with the Bitcoin network and more and more users are starting to run it to protect themselves and the integrity of the system
+
+Running your own Bitcoin Knots node is not just a smart option it is becoming necessary. This is how you take back control. When you run your own node you choose what rules you follow. Developers do not run Bitcoin users do. If you keep running Core without understanding these changes you are agreeing to them whether you meant to or not
+
+Bitcoin Knots now makes up around 20 percent of reachable nodes which is a strong signal that people are pushing back. But we need more
+
+If this change is allowed to move forward without resistance here is what happens next. The blockchain becomes overloaded with junk data. Storage and bandwidth requirements increase dramatically. Governments may begin to see Bitcoin as a liability. Fewer people will be able to run full nodes. Developers who care about Bitcoin’s principles may leave. Decentralization weakens. The network risks becoming legally questionable or even unusable in some regions. This is not fear mongering this is the path we are on if users do nothing
+
+If you care about Bitcoin staying fast secure and focused on being a monetary network then you need to run Bitcoin Knots. Protect yourself from unknowingly storing problematic data and help keep the chain clean. We are at a turning point. Do not sit on the sidelines
+
+Now is the time to take a stand by running your own node. Let the software you choose reflect what you believe in. Bitcoin only works because users enforce the rules. What you run today decides what Bitcoin becomes tomorrow
+
+PLEASE SHARE THIS",False,277,⚠️ Alert ⚠️
+Bitcoin Is Being Poisoned From Within.,"You know why they demonized hard forks... It gives the single developer team unproportional power because no one dares to fork off. And in the end, this little mutiny will just be a little tantrum with no effect.
+
+Hopefully, for some maxis the penny will drop that HFs are needed, that core is compromised or that their non PoW node doesn't matter in a PoW network. 
+
+It is exciting to watch however.",True,38,⚠️ Alert ⚠️
+Bitcoin Is Being Poisoned From Within.,I stoped worrying about what BTC core did 8 years ago.,True,19,⚠️ Alert ⚠️
+Bitcoin Is Being Poisoned From Within.,"If you're not creating blocks then you have zero impact on the network. Your ""wallet node"" has no voice in consensus.",True,43,⚠️ Alert ⚠️
+Bitcoin Is Being Poisoned From Within.,<what year is this meme for 2017> You‘re a bit late to that party pal…,True,10,⚠️ Alert ⚠️
+Bitcoin Is Being Poisoned From Within.,"this whole conversation is _extremely_ stupid. the filters in bitcoin knots do not work. they delay your non-mining node from acknowledging the existence of a perfectly valid transaction for maybe 10 minutes, until someone mines it, then your knots node processes it anyway. knots isn't preventing anything, and the prior data carrier limit value in core didn't work either.
+
+if anyone tells a valid transaction to a miner, even if your personal node tries to drop it, the miner can confirm it and collect a fee. it became completely normalized to ask miners out of band to perform somersaults after blocks became saturated in 2017. miners like to get paid. it doesn't affect anything if your knots node pretends a pending transaction doesn't exist.
+
+consensus has always allowed big OP_RETURN values. the limit in consensus was never 80 bytes. the 80 byte limit was a soft filter in core that everyone figured out could be easily bypassed. consensus also allows [STAMPS](https://docs.openstamp.io/introduction/btc-stamps) which don't use OP_RETURN or witness data at all. knots doesn't prevent STAMPS from propagating or getting included in a block and they are unprunable. the only thing that can change consensus is a real fork. the knots people refuse to advocate for any fork, unless it's for something brain damaged like decreasing the blocksize to 300kb.
+
+knots is maintained by a mentally ill crazy person who has lost 200 bitcoins, had his dev keys leaked, and doxxed an entire conference full of people to law enforcement. his fork has diverged significantly from core and he is the only maintainer. no serious economic node runner is ever going to depend on this stupid crap for their business critical operations. that would be suicide.",True,18,⚠️ Alert ⚠️
+Bitcoin Is Being Poisoned From Within.,"You're way late to the party.  BTC was compromised long ago when Blockstream came on the scene.  But don't worry, Bitcoin was preserved w BCH.",True,8,⚠️ Alert ⚠️
+Bitcoin Is Being Poisoned From Within.,"> If you care about Bitcoin staying fast secure and focused on being a monetary network then you need to run Bitcoin ~~Knots~~ Cash. 
+
+FTFY
+
+Or, fork Core again with some sensible changes to allow BTC to grow. Luke-jr/Knotes won't do it, that's how I know he is (and has been since his Blockstream consultant days) controlled opposition in the hijacking plan that crippled BTC. It doesn't help that he's got extremist religious view which he likes to inject into his cryptocurrency actions. He is perfectly suited as a discredit to Bitcoin. The establishment loves associating extremists (even outright criminals) with things they want to bring down. Don't say we didn't warn you.
+
+You are now between Scylla and Charybdis. Navigate wisely.",True,20,⚠️ Alert ⚠️
+Bitcoin Is Being Poisoned From Within.,"Most people who buy btc don't care about the code, just number go up until it doesn't.",True,5,⚠️ Alert ⚠️
+Bitcoin Is Being Poisoned From Within.,"Yall combating usdt. I keep saying this. Infinity supply. Pegged 1to1 the dollar. Damn right Bitcoin is poisoned. Usdt will outlive Bitcoin. You see now the dollar has created ETF funds around Bitcoin that will be just as big as Bitcoin lol. (""More easily traded, and you get the same exposure"" insert dumb ass SpongeBob meme.)",True,3,⚠️ Alert ⚠️
+Bitcoin Is Being Poisoned From Within.,"It was poisoned from within back in 2017. Anyone with a brain sided with BCH (Gavin, Hotz, Buterin).",True,3,⚠️ Alert ⚠️
+Bitcoin Is Being Poisoned From Within.,Your Bitcoin is being poisoned from within since 2017. USE BCH.,True,16,⚠️ Alert ⚠️
+Bitcoin Is Being Poisoned From Within.,"If I keep running my v28, will I be able to continue interacting with the blockchain without running the new protocol?  Or is the ""vote"" to not use Bitcoin Core and to use an alternate node software that will not use the new forked protocol?",True,2,⚠️ Alert ⚠️
+Bitcoin Is Being Poisoned From Within.,Explain it to me like I am 5 years old,True,2,⚠️ Alert ⚠️
+Bitcoin Is Being Poisoned From Within.,"Here is the Pull Request they merged, despite the mayority opposing
+
+[https://github.com/bitcoin/bitcoin/pull/32406](https://github.com/bitcoin/bitcoin/pull/32406)",True,2,⚠️ Alert ⚠️
+Bitcoin Is Being Poisoned From Within.,I care about the bitcoin that lives on in BCH. So core revealing some more of their true nature might actually be a good thing.,True,2,⚠️ Alert ⚠️
+Bitcoin Is Being Poisoned From Within.,[deleted],True,2,⚠️ Alert ⚠️
+Bitcoin Is Being Poisoned From Within.,"You can read about the hijacking in this book:
+
+https://www.hijackingbitcoin.com",True,2,⚠️ Alert ⚠️
+Bitcoin Is Being Poisoned From Within.,This sub doesn't care about Bitcoin.  Take it to the /Bitcoin sub,True,2,⚠️ Alert ⚠️
+Bitcoin Is Being Poisoned From Within.,Any sources? Like an issue or a pull request,True,1,⚠️ Alert ⚠️
+Bitcoin Is Being Poisoned From Within.,But number still go up? (this is what most people care about),True,1,⚠️ Alert ⚠️
+Bitcoin Is Being Poisoned From Within.,It seems they would do it so fees would increase,True,1,⚠️ Alert ⚠️
+Bitcoin Is Being Poisoned From Within.,"The code will hide the way to leave its participants without money but time. It is probably the true goal of the founder, since he hated fiat money, that after the experiment the participants who continue with their chips until the end will see their money disappear. Time to time",True,1,⚠️ Alert ⚠️
+Bitcoin Is Being Poisoned From Within.,OP. How much downvotes did this get?,True,1,⚠️ Alert ⚠️
+Bitcoin Is Being Poisoned From Within.,Whats stopping bch to be poised from within?,True,1,⚠️ Alert ⚠️
+Bitcoin Is Being Poisoned From Within.,"What is the reason for this? Sometimes the good over shadows the bad, but in this case I'm confused.",True,1,⚠️ Alert ⚠️
+Bitcoin Is Being Poisoned From Within.,"Big wall of text, blah blah blah, who really fucking cares.",True,1,⚠️ Alert ⚠️
+Bitcoin Is Being Poisoned From Within.,Yeah I have no idea what you’re talking about,True,1,⚠️ Alert ⚠️
+Bitcoin Is Being Poisoned From Within.,Also they're putting child porn on the blocks thanks to Core. Check out Bitcoin University on YouTube he can explain it a lot better than I can it's sickening.,True,1,⚠️ Alert ⚠️
+Bitcoin Is Being Poisoned From Within.,"Interesting - if world won't be able to stomach uncensorable speech, there may be a transactions-only fork of Bitcoin at some point",True,1,⚠️ Alert ⚠️
+Bitcoin Is Being Poisoned From Within.,this is not the solution knotzis claim it is,True,1,⚠️ Alert ⚠️
+Bitcoin Is Being Poisoned From Within.,"I have seen this topic too often, don't want to dive into the technicalities of why this is not even a problem because many in the comments have effectively dealt with that. However this is giving the quantum computing doomsday speculating vibe. Like quantum computing, there is literally no reason to be worrying about this; and there might never be for another decade or more.",True,1,⚠️ Alert ⚠️
+Bitcoin Is Being Poisoned From Within.,I agree 100%. Knotts is the way any bitcoiner that believes in the ethos would go.  PLEASE understand. Staying with Core means child porn possibilities. Knotts keeps the filters that make that impossible. I beg you to run Knotts!  I never thought I would consider Core immoral…,True,1,⚠️ Alert ⚠️
+Bitcoin Is Being Poisoned From Within.,Is bitcoin going to fork?,True,1,⚠️ Alert ⚠️
+Bitcoin Is Being Poisoned From Within.,Run knots. If 50% of us ran the alternative it would seriously affect the viability of these changes and make spam much more expensive for these bad actors,True,1,⚠️ Alert ⚠️
+Bitcoin Is Being Poisoned From Within.,">Bitcoin Knots is an alternative full 
+
+
+Stopped reading right there, the post is clearly just shilling something.",True,1,⚠️ Alert ⚠️
+Bitcoin Is Being Poisoned From Within.,Thanks for the heads uo,True,1,⚠️ Alert ⚠️
+Bitcoin Is Being Poisoned From Within.,Let the difficulty decide if it’s worth to add data,True,1,⚠️ Alert ⚠️
+Bitcoin Is Being Poisoned From Within.,What are the reasons used by core to justify this huge increase in the op return?,True,1,⚠️ Alert ⚠️
+Bitcoin Is Being Poisoned From Within.,Bitcoin FREE Pass has Expired!,True,1,⚠️ Alert ⚠️
+Bitcoin Is Being Poisoned From Within.,Running Knots 🫡. F*CK Core 🖕,True,0,⚠️ Alert ⚠️
+Bitcoin Is Being Poisoned From Within.,You inadvertently came crying to a BCH shilling sub.  You will find no sympathy here.,True,1,⚠️ Alert ⚠️
+Bitcoin Is Being Poisoned From Within.,What does this have to do with Bitcoin Cash? Just let them die already.,True,1,⚠️ Alert ⚠️
+Bitcoin Is Being Poisoned From Within.,The same copy paste fud here as in /r/bitcoinmining? Dude spam doesnt come off as serious,True,0,⚠️ Alert ⚠️
+Bitcoin Is Being Poisoned From Within.,I don’t really care do u?,True,0,⚠️ Alert ⚠️
+Bitcoin Is Being Poisoned From Within.,We are all full of poison,True,0,⚠️ Alert ⚠️
+Bitcoin Is Being Poisoned From Within.,BCH FUD,True,0,⚠️ Alert ⚠️
+Bitcoin Is Being Poisoned From Within.,beware of professional ponzi preacher,True,8,⚠️ Alert ⚠️
+Bitcoin Is Being Poisoned From Within.,"in debt we trust
+
+love mstr-327.59 usd
+
+2025-09-04",True,5,⚠️ Alert ⚠️
+Bitcoin Is Being Poisoned From Within.,"Less talk, more action.",True,2,⚠️ Alert ⚠️
+Bitcoin Is Being Poisoned From Within.,Speaking of losers🤦‍♂️,True,1,⚠️ Alert ⚠️
+Bitcoin Is Being Poisoned From Within.,Watch the cope in this sub when btc reaches 150k,True,0,⚠️ Alert ⚠️
+Bitcoin Is Being Poisoned From Within.,Wonder what the fees will be like when you're paying VISA to use their app to spend your crypto :-D,True,2,⚠️ Alert ⚠️
+Bitcoin Is Being Poisoned From Within.,"I got into Bitcoin precisely so that I could avoid using credit cards for paying for things.
+
+Ironically, got a ""low fee"" credit card to invest in Bitcoin. (I advise against doing so: took 4 years for me to make my money and interest back; past performance is not indicative of future performance.)",True,1,⚠️ Alert ⚠️
+Bitcoin Is Being Poisoned From Within.,"We are not there
+
+Eth is 4.3k you dumb bot",True,2,⚠️ Alert ⚠️
+Bitcoin Is Being Poisoned From Within.,"One by one, Bitcoin Cash is knockin'em down!",True,3,⚠️ Alert ⚠️
+Bitcoin Is Being Poisoned From Within.,Gold is up 217%. I have no idea where you got 9% from. I’m sure the rest of this picture is totally accurate,True,35,⚠️ Alert ⚠️
+Bitcoin Is Being Poisoned From Within.,Not nvidia...,True,9,⚠️ Alert ⚠️
+Bitcoin Is Being Poisoned From Within.,Where’s Nvidia,True,8,⚠️ Alert ⚠️
+Bitcoin Is Being Poisoned From Within.,"AAPL is actually up 871%. 
+
+A $1,000 investment in AAPL in 2014 would be worth ~$10,000 by 2024 factoring cap gains and dividends.",True,14,⚠️ Alert ⚠️
+Bitcoin Is Being Poisoned From Within.,Things must really be grim with the number of these posts on a daily basis.,True,5,⚠️ Alert ⚠️
+Bitcoin Is Being Poisoned From Within.,"The troll farms are working overtime for btc lately.
+
+Is it about asset? Is it a currency? Do we just hold it until we die? Does anyone even remember their passkey?
+
+Must also be due a quick look at inflation over some meaningless 200-year period, too?",True,7,⚠️ Alert ⚠️
+Bitcoin Is Being Poisoned From Within.,Why isn't nvidia on there?,True,3,⚠️ Alert ⚠️
+Bitcoin Is Being Poisoned From Within.,Most crypto advocates probably never took an accounting or finance class to properly know how to calculate ROI.,True,2,⚠️ Alert ⚠️
+Bitcoin Is Being Poisoned From Within.,PR Machine🤣,True,2,⚠️ Alert ⚠️
+Bitcoin Is Being Poisoned From Within.,Lie,True,1,⚠️ Alert ⚠️
+Bitcoin Is Being Poisoned From Within.,Maybe make a new graph with real numbers? They are publicly known. Would that be to much work?,True,1,⚠️ Alert ⚠️
+Bitcoin Is Being Poisoned From Within.,fake data,True,1,⚠️ Alert ⚠️
+Bitcoin Is Being Poisoned From Within.,"maaan, this is dissinformation incarnated.",True,1,⚠️ Alert ⚠️
+Bitcoin Is Being Poisoned From Within.,You forgot mazda miata's,True,1,⚠️ Alert ⚠️
+Bitcoin Is Being Poisoned From Within.,Pyramid scheme,True,1,⚠️ Alert ⚠️
+Bitcoin Is Being Poisoned From Within.,"Bitcoin is a currency not an asset.
+
+BTC has been one of the worst performing currency since 2015.  Slow, unreliable, and expensive transactions.",True,2,⚠️ Alert ⚠️
+Daily Volatility? Haven't heard of it.,"Everyone loves to complain about Bitcoin's volatility, but over the years, Bitcoin’s gotten a lot less wild. Back in 2011, daily price swings of 10–20% weren’t unusual. Now, those kinds of moves are rare.
+
+But that doesn't mean that they don't exist. As the industry becomes more sophisticated and institutional players join the fray, the outliers in the data become more interesting. What happened on days like 4th of March, 2025 to cause such a massive slump? And can we predict days like that in the future?",False,0,
+Daily Volatility? Haven't heard of it.,"Yeah, the days of massive gains are over it seems. Unfortunately this reduced volatility has not lead to more usage.",True,1,
+Daily Volatility? Haven't heard of it.,So basically cucked,True,6,
+Daily Volatility? Haven't heard of it.,"Nobody wanted to defeat evil, we just want to be part of it finally",True,6,
+Daily Volatility? Haven't heard of it.,"Pure Bitcoin energy here 😂 NGU is the only love language some of us understand. No BlackRock no Visa, just laser eyes and conviction",True,2,
+"Small miners vs hosted mining, which one keeps Bitcoin stronger?","Lately, I've been thinking about how much mining decentralisation still matters. On one side you've got huge farms with cheap power dominating hashrate. On the other side, there are still people running one or two rigs at home, even if ROI is slim, just because they want to contribute.
+
+I don't run hardware myself, but I do get payouts through hashmole. It made me wonder: is hosted mining closer to ""big farm centralization"" or is it actually helping decentralize since anyone can tap into it without owning a warehouse of machines?
+
+Would love to hear what you guys think, is Bitcoin stronger if more of us join in through services like that, or does real decentralization only happen when people run their own rigs?",False,0,⌨ Discussion
+"Small miners vs hosted mining, which one keeps Bitcoin stronger?","Mining is starting to come back home.  Especially for heating applications.
+
+[I FOUND A $1100 BITCOIN CASH SOLO BLOCK!](https://youtu.be/kUHrCmbki48)",True,3,⌨ Discussion
+"Small miners vs hosted mining, which one keeps Bitcoin stronger?",Doesn't matter but it needs to be decentralized. The current situation is close to unbearable. 2-3 Pools have more than 51% consistently and at least two of them are in the US and fully KYC their miners.,True,3,⌨ Discussion
+Please sell all your BTC,"We are now officially in the next great depression.  Please sell all your BTC, it trades just like any other risk asset and all risk assets will get decimated over the next couple years.  Please be wise and save your money.",False,0,
+Please sell all your BTC,"Save your money 🤣
+
+I guess you’ve never understood what money is.",True,7,
+Please sell all your BTC,🫡,True,1,
+Please sell all your BTC,"Best to swap the BTC for BCH.
+
+Bitcoin Cash is the real Bitcoin with solid fundamentals to work as the next world reserve currency.",True,0,
+"Satoshi Nakamoto didn’t just describe the financial prison we are trapped in. He handed the prisoners the blueprints and the dynamite and told them to ""burn it all down.""","
+Which is why he got suicided. 
+
+https://open.substack.com/pub/satoshifiles/p/birth-of-bitcoin-ba1",False,27,
+"Satoshi Nakamoto didn’t just describe the financial prison we are trapped in. He handed the prisoners the blueprints and the dynamite and told them to ""burn it all down.""",…and then Blockstream entered the chat.,True,15,
+"Satoshi Nakamoto didn’t just describe the financial prison we are trapped in. He handed the prisoners the blueprints and the dynamite and told them to ""burn it all down.""",And now we can all go to BlackRock and buy some. Financial freedom here we come!,True,12,
+"Satoshi Nakamoto didn’t just describe the financial prison we are trapped in. He handed the prisoners the blueprints and the dynamite and told them to ""burn it all down.""",If you actually think bitcoin had any chance of solving human greed you are extremely naive.,True,8,
+"Satoshi Nakamoto didn’t just describe the financial prison we are trapped in. He handed the prisoners the blueprints and the dynamite and told them to ""burn it all down.""","At best BTC will be mashed in with any other financial products.
+
+It will never be a thing any of us need to have. Holding BTC or any crypto is a massive pain and the custodial options all seem like unregulated messes.",True,5,
+"Satoshi Nakamoto didn’t just describe the financial prison we are trapped in. He handed the prisoners the blueprints and the dynamite and told them to ""burn it all down.""","Satoshi lives on in Bitcoin Cash (BCH), the real Bitcoin.",True,7,
+"Satoshi Nakamoto didn’t just describe the financial prison we are trapped in. He handed the prisoners the blueprints and the dynamite and told them to ""burn it all down.""","well nobody burned down anything so there is that
+
+  
+satoshi did not kill himself, he just got bored of people and moved on to other things.",True,4,
+"Satoshi Nakamoto didn’t just describe the financial prison we are trapped in. He handed the prisoners the blueprints and the dynamite and told them to ""burn it all down.""",Ain’t liberty mean that the meanies can play too?,True,2,
+"Satoshi Nakamoto didn’t just describe the financial prison we are trapped in. He handed the prisoners the blueprints and the dynamite and told them to ""burn it all down.""",Pyramid scheme,True,1,
+"Satoshi Nakamoto didn’t just describe the financial prison we are trapped in. He handed the prisoners the blueprints and the dynamite and told them to ""burn it all down.""",The problem with a rigid system is that stated aims mean nothing compared to what the system does. A system is what it does and bitcoin cannot be cash.,True,0,
+"Satoshi Nakamoto didn’t just describe the financial prison we are trapped in. He handed the prisoners the blueprints and the dynamite and told them to ""burn it all down.""","Certainly no-one here can help you.
+
+Go to an OTC trading desk.
+
+But also, why would you want to convert to some token where your ""cash""  funds can be frozen?",True,2,
+What should I do?,"I wanna put 300.000$ in Bitcoin. Should I buy now, wait for some profits (e.g 10% from here) and sell (not trying to time the top) or should I just wait for the bear market to buy in?
+
+How big is the risk of the top already being in at 125k and me just losing money if I buy in now?",False,0,⌨ Discussion
+What should I do?,How did someone that goes onto reddit to ask for investment advice get the 300k in the first place?,True,7,⌨ Discussion
+What should I do?,50%,True,2,⌨ Discussion
+What should I do?,You should stop asking random people on Reddit how to manage your finances.,True,2,⌨ Discussion
+What should I do?,"I hope for your finances' sake that you include this reading in your due diligence that you do before sinking large amounts of money into a Bitcoin investment.
+
+https://www.hijackingbitcoin.com/",True,2,⌨ Discussion
+What should I do?,we’re nowhere near the top my wodie,True,0,⌨ Discussion
+What should I do?,Buy and don't look back!,True,0,⌨ Discussion
+What should I do?,"What's your time horizon? 
+
+If it's 2 years, hard to say. If it's 20 years...",True,0,⌨ Discussion
+What should I do?,"Why are you asking the same question in 10 different subreddits?
+
+Why not just wait for an answer in 1 sub?",True,0,⌨ Discussion
+What should I do?,"It happens every 10 minutes.
+
+Gold has a neat property, if it gets more expensive, more gold in the earth gets profitable to mine. If it gets cheaper, more use cases get profitable that demand Gold.",True,31,⌨ Discussion
+What should I do?,Yes it does. Every time an early era wallet suddenly wakes up.,True,28,⌨ Discussion
+What should I do?,"You can make several arguments either way. Someone else can also say bitcoin isn’t used for anything, nor does it have any actual value other than artificial desire. Gold will always have a spot in electrical engineering, aerospace, and in the medical field.",True,11,⌨ Discussion
+What should I do?,"It literally does bro somebody finds an old hard drive with 10 mil on it every other week wtf you on
+
+
+For that matter Satoshi himself could wake up tomorrow and move 1mil+ coins tanking the entire market instantly ",True,4,⌨ Discussion
+What should I do?,Unless someone finds Satoshi's private keys...,True,6,⌨ Discussion
+What should I do?,"Gold is unique, BTC and its tech can be infinitely replicated…",True,19,⌨ Discussion
+What should I do?,"Although I understand the total absolute quantity of something can affect its price, the amount of gold or whatever asset currently available on the market for sale and the number of buyers is also important. Absolute supply vs. circulating supply.
+
+
+Even if BTC has a limit of 2.1 quadrillion sats, if everyone wants to sell at once, it doesn't actually matter how finite the cap is. 
+
+
+Scarcity is just one axis; there are plenty of others. 
+
+
+To make a really shitty analogy, the supply of Beanie Babies wasn't infinite, unlike fiat, which is. The BB had a finite supply and its supply was constrained by factory output and the business decisions of the company. Some designs were discontinued etc.
+
+
+People believed that they were scarce and rare, and some actually were. But the second everyone decided overpaying for soft toys was a bad idea, the price collapsed. Of course Beanie Babies were never promised as a unit of currency, but I would live in that world for a week just for the story.
+
+
+Scarcity isn't always and necessarily the silver bullet. Puns, lovely.
+
+
+Of course, finite resources are probably better than infinite resources from a wealth preservation perspective, but let's not oversimplify it too much. Even if fiat is infinite, if you can increase your share of total fiat faster than the supply of fiat grows, it's a good system for you eh. But that is hard to do lol.",True,3,⌨ Discussion
+What should I do?,"What about a dormant BTC address waking up?
+
+That's the same",True,3,⌨ Discussion
+What should I do?,"To be fair, this will be a thing in the future with lost bitcoin being found.",True,6,⌨ Discussion
+What should I do?,"More gold, less scarcity,  lower price. Oops.... nvm they manipulate gold prices, diamond prices, oil prices... now, they even manipulate bitcoin prices. We all win! Or lose? 🤷‍♂️",True,2,⌨ Discussion
+What should I do?,Just wait until the security budget implodes next halving. ,True,2,⌨ Discussion
+What should I do?,Yes. It does.,True,2,⌨ Discussion
+What should I do?,Gold is just primitive Bitcoin. No point in shutting on two good stores of value. With any investment it’s important not to keep all your eggs in one basket.,True,2,⌨ Discussion
+What should I do?,And yet gold has outperformed BTC this year.,True,2,⌨ Discussion
+What should I do?,"Except it did happen. Someone created 184 million bitcoin 
+
+
+https://decrypt.co/39750/184-billion-bitcoin-anonymous-creator
+
+
+Could an exploit happen again? Unlikely but not impossible ",True,2,⌨ Discussion
+What should I do?,Gold asteroid gonna hit the planet any minute. Gold value tanks. BTC asteroid is not likely...💥,True,2,⌨ Discussion
+What should I do?,Exact opposite happens as tons and tons of dust gets lost to high fees.,True,2,⌨ Discussion
+What should I do?,"Discovered gold and mined gold are definitely different tho. 
+
+“We discovered an asteroid with xxx amount of gold” 
+
+Idk why I made the amount horny but",True,2,⌨ Discussion
+What should I do?,There’s more gold out there than they want you to believe.,True,2,⌨ Discussion
+What should I do?,I once found this hardrive at the rubbish dump. Apparantly some guy has been looking for it for years and even went to court to get access. I found it 5 years ago but didnt say anything. It is meant to have $100m in bitcoin on it but I am not very good with computers. Can anyone help?,True,2,⌨ Discussion
+What should I do?,OP fighting for his life in these comments 😆,True,2,⌨ Discussion
+What should I do?,"OP - you're posting in a Bitcoin hating sub-reddit. If you had posted this about Bitcoin Cash, they would have been all over it it 😂",True,2,⌨ Discussion
+What should I do?,Yeah it does 😅 I cracked a brain wallet the other day with 300btc on it ;-),True,2,⌨ Discussion
+What should I do?,Quantum computing will end btc,True,2,⌨ Discussion
+What should I do?,"Well we do found dormant wallets.
+
+But also so many private key get destroyed.
+Which probably makes bitcoin already deflationary.",True,2,⌨ Discussion
+What should I do?,Man finds lost password to 1000 bitcoin…,True,2,⌨ Discussion
+What should I do?,So true,True,2,⌨ Discussion
+What should I do?,"1.67 million tonnes in recent asteroid finding.
+
+Total gold ever mined on Earth: ~205,000 tonnes
+
+Estimated remaining gold in Earth’s crust: → ~50,000–60,000 tonnes
+
+~77–80% of Earth's gold has already been mined and  ~20–23% of Earth's gold remains in the crust
+
+Total on Earth: ~260,000 tonnes (tiny compared to space)",True,3,⌨ Discussion
+What should I do?,Is this sub anti bitcoin or what lol,True,2,⌨ Discussion
+What should I do?,The old timers say that a gold mine is a hole in the ground with a liar standing next to it. Act accordingly.,True,1,⌨ Discussion
+What should I do?,"I don't think this would be ultimately correct if BTC ever became a day to day currency.
+
+Eventually there will be credit products that create Paper BTC that most will consider fungible with the real thing.",True,1,⌨ Discussion
+What should I do?,"Earth . com staff writer?
+
+2025-06-16 resolute mining \[ASX: RSG\] 
+
+disclosure: the announcement was sparse on details and didn't appear to be matched by a new statement of discovery from the company.
+
+operation at doropo are slated to begin in 2028.
+
+2025-09-04",True,1,⌨ Discussion
+What should I do?,"This literally happens with BTC. There is a finite supply of gold on earth. Sometimes more is uncovered. There is a finite supply of BTC that will ever exist, sometimes new BTC is mined, sometimes previously mined bitcoin that has laid dormant forever is uncovered and comes back to live. Literally same thing. There is just a lot more unmined gold than unmined BTC.",True,1,⌨ Discussion
+What should I do?,Say that again when Satoshi’s wallet kicks on haha,True,1,⌨ Discussion
+What should I do?,"uhhhhhhhh     there is TONS of bitcoin that got lost in drives and landfills that could get recovered any minute bro...... billions, many billions",True,1,⌨ Discussion
+What should I do?,"Gold cannot be forked into cloning itself with slightly different properties.  
+
+Also with BTC you can’t guarantee that the people running the network won’t eventually screw users over by charging crazy high fees or changing the coinbase reward logic.  These problems don’t exist with gold.",True,1,⌨ Discussion
+What should I do?,Plot twist: the company that discovered the gold is Bre-X,True,1,⌨ Discussion
+What should I do?,You know gold has industrial purposes and actually used in everyday lives right?,True,1,⌨ Discussion
+What should I do?,it always happened))when gold rise somewhere in Africa they found new gold)))always..so this is only fake news),True,1,⌨ Discussion
+What should I do?,Gold is quite literally the definition of unique,True,1,⌨ Discussion
+What should I do?,Because BTC IS HOT AIR. And mankinds biggest scam ever.,True,1,⌨ Discussion
+What should I do?,"""Daddy, I found this old harddrive in the garbage dump, let's see if there's something on it!"" 
+
+""Oh look, the key to 7000 Bitcoin! How planets should we buy?""",True,1,⌨ Discussion
+What should I do?,"So they mined gold.
+
+Haha, stupid gold holders let me just buy some more btc being sold by this btc MINING company.",True,1,⌨ Discussion
+What should I do?,You still need to post this in r/cryptocurrency /s,True,1,⌨ Discussion
+What should I do?,this is exactly whats going to happen because of the quantum menace.,True,1,⌨ Discussion
+What should I do?,Gold ain’t a pyramid scheme. Buy.,True,1,⌨ Discussion
+What should I do?,Once people realise that btc stops its upward trend it'll just die out like any hype. Btc is nothing more than a hypetrain that will slow down eventually. It holds no actual value and completely depens on the digital world,True,1,⌨ Discussion
+What should I do?,"moving from plan to production?
+
+[en.wikipedia.org/wiki/Resolute\_Mining](http://en.wikipedia.org/wiki/Resolute_Mining)
+
+2025-09-04",True,1,⌨ Discussion
+What should I do?,I hope this was satire,True,1,⌨ Discussion
+What should I do?,"When the Governor of the World will ban all cryptos BTC will survive only, all others are just dust. Owning is not really possible in our era since we pay for services and own nothing. Owning BTC is a utility itself.",True,1,⌨ Discussion
+What should I do?,...but it happens with Tether!! LOL,True,0,⌨ Discussion
+What should I do?,And the window for a decentralized p2p cash currency closes further.,True,2,⌨ Discussion
+What should I do?,"""Request Access"" just says it all, doesn't it.",True,2,⌨ Discussion
+What should I do?,"> Tempo is an EVM-compatible L1 blockchain, purpose-built for payments. It doesn’t displace other general-purpose blockchains; rather, it incorporates design choices that meet the needs of high-volume payment use cases. These include predictable low fees in a dedicated payments lane, stablecoin neutrality, a built-in stablecoin exchange, high throughput, low latency, private transactions, payment memos compatible with standards like ISO 20022, compliance hooks, and more.
+
+First They Ignore You, Then They Laugh at You, Then They Attack You, ...",True,1,⌨ Discussion
+What should I do?,It offers pretty much nothing Ethereum doesn't have already.,True,1,⌨ Discussion
+What should I do?,This is the dumbest timeline.,True,4,⌨ Discussion
+What should I do?,Didn't he get a get out of jail free card for buying 70m of the pediphile's trump bribery coin?,True,5,⌨ Discussion
+What should I do?,"x-posted from this thread:
+
+https://np.reddit.com/r/CryptoCurrency/comments/1n8gtgu/the_trump_family_just_outcrimed_justin_sun/",True,2,⌨ Discussion
+What should I do?,So King Donny was not satisfied with his bribe ?,True,2,⌨ Discussion
+What should I do?,Can they do the same with a bitcoin wallet?,True,1,⌨ Discussion
+The Dollar has lost 50% of its value versus Gold in the past 3 years,"The Dollar has lost 50% of its value versus Gold in the past 3 years.
+
+50%.
+
+Understand where America is.
+
+You now live in a third world country.",False,68,
+The Dollar has lost 50% of its value versus Gold in the past 3 years,now post other currencies,True,9,
+The Dollar has lost 50% of its value versus Gold in the past 3 years,"The dollar dove 99,99% beneath BTC past 14 years",True,8,
+The Dollar has lost 50% of its value versus Gold in the past 3 years,Guys we live in a third world country based on another post OP saw. Damn... day ruined,True,3,
+The Dollar has lost 50% of its value versus Gold in the past 3 years,Aww yeah ! Trump kept his word to lower the value of the  dollar so other countries can invest in America. ,True,1,
+The Dollar has lost 50% of its value versus Gold in the past 3 years,"This has been a bad time for FIAT currencies over the past five years, and they definitely have their problems. But even including this the dollar is the least volatile currency in human history, averaging 4% historical vol. It has enabled people to do business without having the worry about massive daily swings and liquidation cascades etc. You can't just look at the bad only and ignore billions of people using it every day successfully.",True,1,
+The Dollar has lost 50% of its value versus Gold in the past 3 years,"how much does it cost to produce an ounce of gold?
+
+[https://www.americanbullion.com/the-cost-of-producing-an-ounce-of-gold/](https://www.americanbullion.com/the-cost-of-producing-an-ounce-of-gold/)
+
+how much does it cost to produce currency and coin?
+
+[https://www.federalreserve.gov/faqs/currency\_12771.htm](https://www.federalreserve.gov/faqs/currency_12771.htm)
+
+DD Date: 2025-09-04 E&OE/CYA",True,1,
+The Dollar has lost 50% of its value versus Gold in the past 3 years,2025-09-04 more news: gold price could see 5000$ if trump keeps attacking fed...says goldman sachs group.,True,1,
+The Dollar has lost 50% of its value versus Gold in the past 3 years,Now do nvidia. Such a pointless graph.,True,1,
+The Dollar has lost 50% of its value versus Gold in the past 3 years,Big btc advocate but this means nearly nothing lol.,True,1,
+The Dollar has lost 50% of its value versus Gold in the past 3 years,Alternatively: gold has doubled in value versus the dollar over the past 3 years.,True,1,
+The Dollar has lost 50% of its value versus Gold in the past 3 years,BTC has lost 13% of its value to gold in a few weeks.,True,1,
+The Dollar has lost 50% of its value versus Gold in the past 3 years,This is a completely useless graph without any other context or comparison.,True,1,
+The Dollar has lost 50% of its value versus Gold in the past 3 years,Yes but you can trade dollars for gold and vice versa. NOBODY is letting you trade BTC for gold. Gold’s value to people have remained consistent for thousands of years and it will be that way for the foreseeable future.,True,1,
+The Dollar has lost 50% of its value versus Gold in the past 3 years,This is on purpose. Weaken the dollar to strengthen exports.,True,1,
+The Dollar has lost 50% of its value versus Gold in the past 3 years,More importantly USA lost like 100% of its standing in the world in the last 8 months …..,True,1,
+The Dollar has lost 50% of its value versus Gold in the past 3 years,Gold is not Bitcoin. Why did you post this to r/btc?,True,0,
+The Dollar has lost 50% of its value versus Gold in the past 3 years,"Haha, lookz like the dollar’s takin a gold-plaited beatin! 50% value drop in 3 yeers time to trade it for sum Bitcoin befor we all moov to a “third wurld” economy! 😄 Great chart, tho proff the greenback’s not so green nemore!",True,0,
+The Dollar has lost 50% of its value versus Gold in the past 3 years,"Funny enough, this lead crazy Luke DashJR to his most sane statement yet. About Adam ""Tabs"" Back he said: ""He's clearly compromised in some way"". 
+
+
+🤣 you can't make this shit up. 🍿",True,15,
+The Dollar has lost 50% of its value versus Gold in the past 3 years,"I love the fact that Bitcoiners and Bcashers can both agree on one thing, BSV is utter shitcoinery.",True,10,
+The Dollar has lost 50% of its value versus Gold in the past 3 years,"HODL (in anything) is a one-time payoff, usually to your heirs. Live a little!",True,2,
+The Dollar has lost 50% of its value versus Gold in the past 3 years,"Bitcoin is for spending as a currency.
+
+BTC is not Bitcoin.",True,1,
+The Dollar has lost 50% of its value versus Gold in the past 3 years,"The date was 18 Nov 2023. The AVERAGE fee at that day was just $20. Imagine how it feels like if this happens with $100 fees which we have already seen.
+
+Mike is also so kind to highlight the problem of LN centralizing because small nodes will simply give up.",True,8,
+The Dollar has lost 50% of its value versus Gold in the past 3 years,"I‘m just waiting for the maxi NPC brigade to show up parroting script so they can buy themselves a sandwich with a pretty big picke tonight. It pays marginally better than Amazon mechanical turk, but worse than mcdonalds.
+
+Edit: You guys, it‘s been an hour. Don‘t be shy. I don‘t bite, I swear by Adams Tabs. I‘m a really lovely sane and well adjusted person you‘ll just love to endless thread with, trust me.
+
+Edit: two hours? Srsly? What‘s this? Slow NPC day? Man kids these days, lazy bums.",True,7,
+The Dollar has lost 50% of its value versus Gold in the past 3 years,"yep, channel maintenance ruins the whole thing. it was never not meant to be used through a custodian",True,3,
+Do you know what happened in 1971?,"Do you know what happened in 1971?
+
+https://wtfhappenedin1971.com/.",False,35,
+Do you know what happened in 1971?,"1971? No.
+
+But in **1970** Congress made their biggest mistake and passed the Legislative Reorganization Act, the ""Sunshine"" Laws, that required them to publicly record their votes.
+
+The unintended consequence (or perhaps the intension of lobbyists) was now the lobbyists could now acertain if Congressmen were delivering votes for their brides. Look at any Congressional spending / deficit chart and you'll see the sharp incline begins in 1970!
+
+Prior to that, Congressmen could take bribes but still vote for their constituents in privacy whilst blaming others for failed spending bills. Now, they're simply bought and paid for by lobbyists, holding lifetime positions earning millions of dollars with portfolios that magically outperform most financial firms. (see Pelosi).
+
+edit: fixed date",True,12,
+Do you know what happened in 1971?,Amazing website.  1971 is when real wages stopped growing.  More people need to understand what happened in 1971.,True,5,
+Do you know what happened in 1971?,"Great info, and here is what happened in 2017
+
+# Hijacking Bitcoin: by Roger Ver
+
+[https://odysee.com/@Pantera:f/HijackingBitcoin:7](https://odysee.com/@Pantera:f/HijackingBitcoin:7)",True,6,
+Do you know what happened in 1971?,Three guys had breakfast in the Waldorf Astoria. They traded a whitepaper for $5k.,True,2,
+Do you know what happened in 1971?,yeah - some of the greatest rock music ever was released. damn what a year.,True,2,
+Do you know what happened in 1971?,End of Bretton Woods agreement good morning debt thanks to Nixon,True,2,
+Do you know what happened in 1971?,"1861 was the year the American Civil War started and price of an ounce of gold was $18.93
+
+1907 Price of an ounce of gold was $18.94
+
+1913 was when the federal reserve got started and the price of an ounce of gold was $18.99
+
+1931 was during the great depression and the price of gold dropped to $17.06
+
+March 22, 1933, President Franklin D. Roosevelt signs the Beer and Wine Revenue Act ending prohibition, which was started in 1920.
+
+April 5, 1933 Roosevelt made gold illegal for ownership through Executive Order 6102.
+
+1934 price of an ounce of gold was $34.69
+
+1935 the Social Security Act was passed.
+
+1956 Price of an ounce of gold was $34.99
+
+August 1971 Price of an ounce of gold was $42.73
+
+Today price of an ounce of gold is over $3600.",True,4,
+Do you know what happened in 1971?,I wasn't born at that time so idk,True,1,
+Do you know what happened in 1971?,The gold standard was garbage.,True,1,
+Do you know what happened in 1971?,I think Jimi Hendrix recorded are you experienced.,True,1,
+The Trump boys just yeeted “American Bitcoin” onto Nasdaq and it’s already a circus,"Eric and Don Jr. decided yesterday was the day to turn their little mining toy into a “historic milestone” and slapped American Bitcoin on the Nasdaq under the ticker ABTC.
+
+Opening bell hits → stock dumps 17% in two minutes 😂. Wall Street basically said “nah.”
+
+But wait it yo-yoed back up 74% by the afternoon because apparently degenerates can’t resist a Trump pump.
+
+First it was World Liberty Financial, now ABTC, and next they’re building a Cronos treasury. Like… at this point it’s less “family business” and more crypto cult with daddy issues.
+
+Full explainer of the clown show here if you want the receipts: [https://www.sandmark.com/news/top-news/trump-backed-mining-company-american-bitcoin-lists-nasdaq](https://www.sandmark.com/news/top-news/trump-backed-mining-company-american-bitcoin-lists-nasdaq?utm_medium=referral&utm_source=redbot&utm_campaign=redbot-ww-en-brand)",False,362,
+The Trump boys just yeeted “American Bitcoin” onto Nasdaq and it’s already a circus,"In January Vitalik Buterin said ""Now is the time to talk about the fact that large-scale political coins cross a further line: they are not just sources of fun, whose harm is at most contained to mistakes made by voluntary participants, they are vehicles for unlimited political bribery, including from foreign nation states.""",True,44,
+The Trump boys just yeeted “American Bitcoin” onto Nasdaq and it’s already a circus,I think I seen this before. Didn’t end well.,True,23,
+The Trump boys just yeeted “American Bitcoin” onto Nasdaq and it’s already a circus,"Anything crypto and trump related should be left alone.   There's only a few people making money on it. And that's the trump family.  
+
+And don't Yeet or relate Yeet to trump. 
+As a WWE fan. Yeet is Jey Uso. 
+So don't mix it up with politics.
+
+1 word 4 letters  Yeet 🙌🏻",True,29,
+The Trump boys just yeeted “American Bitcoin” onto Nasdaq and it’s already a circus,buy bitcoin and ignore the noise,True,27,
+The Trump boys just yeeted “American Bitcoin” onto Nasdaq and it’s already a circus,"Fun Fact, this phenomenon applies to public listed mining companies.
+
+**The BTC trope is don't buy a miner, buy the coins you'll never ROI with the miner and escalating difficulty.** 
+
+US$17,400 buys a Bitmain S23Hyd (well soon) 
+
+it earns US$ 31.26 per day. (580Th/s)  
+it runs at 5510W @ 9J/T  
+Assuming US$ 0.05 per kWh   
+It costs US$ 6.61 to run per day. 
+
+Retuning US$ 24.65 per day profit. 
+
+Projected yearly revenue of US$8,997.25 per year on capital of US$17,400  
+That's a **57.1% return** on capital. **Sounds good right?** 
+
+The reality is it is good, so good that every miner is going to do it, and Bitcoin difficulty will increase every time someone tries to get a piece of the pie. That profit margin will creep down to a marginal return slightly above operating expenses.   
+Making this trop almost real: **The BTC trope is don't buy a miner, buy the coins you'll never ROI.**
+
+The suckers in an IPO are paying top dollar for new hardware expecting a healthy dividend, only they don't understand the market dynamic, and they end up losing. 
+
+Bitmain will eventually drop the unit price to keep people buying the hardware as difficulty increases, eventually making a more efficient miner followed by a bunch of new mining IPO's that sucker in the dumb money with a new trope, you want to be producing at cost the BTC the plebs are buying.",True,3,
+The Trump boys just yeeted “American Bitcoin” onto Nasdaq and it’s already a circus,"Nasdaq has lost credibility allowing these BTC treasury shell companies to exist. 
+
+Anyone buying this garbage deserves to lose it all",True,4,
+The Trump boys just yeeted “American Bitcoin” onto Nasdaq and it’s already a circus,"Ah yess. Turning financial markets into a personal ponzi scheme has always worked out historically. 
+
+
+It never resulted in market crashes and government bailouts leading to exponential national debt and rocketing inflation
+
+
+O wait...",True,2,
+The Trump boys just yeeted “American Bitcoin” onto Nasdaq and it’s already a circus,"well, at least it’s not a new shitcoin. It’s a mining company, a Bitcoin treasury and a hype/marketing company according to the article. Worth watching at least for entertainment value. These guys will never run out of scams.",True,1,
+The Trump boys just yeeted “American Bitcoin” onto Nasdaq and it’s already a circus,"2025-09-04 1236:13 abtc-6.39 usd
+
+52 week range: 0.63 - 14.65 usd
+
+2025-09-04 E&OE/CYA",True,1,
+The Trump boys just yeeted “American Bitcoin” onto Nasdaq and it’s already a circus,"world liberty financial: [https://intel.arkm.com/explorer/entity/worldlibertyfi](https://intel.arkm.com/explorer/entity/worldlibertyfi) arkm-0.457801 usd
+
+2025-09-04 E&OE/CYA",True,1,
+The Trump boys just yeeted “American Bitcoin” onto Nasdaq and it’s already a circus,"This isn’t about Bitcoin, it’s about a family slapping their name on anything volatile enough to spin up a headline. Mining company + Trump branding + Nasdaq = recipe for bagholders",True,1,
+The Trump boys just yeeted “American Bitcoin” onto Nasdaq and it’s already a circus,Sounds like a highly intelligent family knowing where the value is and is headed for generations. Simple as that.,True,1,
+The Trump boys just yeeted “American Bitcoin” onto Nasdaq and it’s already a circus,WLFI was the easiest play in hindsight imo in the last 6 months. But yeah hindsight,True,1,
+The Trump boys just yeeted “American Bitcoin” onto Nasdaq and it’s already a circus,"I was so excited when I started learning about smart contracts and programming in eth.  I tried to convince my clients that the systems we develop for them could use eth to do international transfers of their shipping and sales so easily and fast and secure.... I tried so hard, but then....  It was just endless memes and ponzi crap. I had to shelf all my applications.  I can't even discuss it at work.  Now, with these fckin $trump coins and blatant bribry and money laundering....  I just can't even.  Such high hopes and we get this never ending stream of garbage",True,1,
+The Trump boys just yeeted “American Bitcoin” onto Nasdaq and it’s already a circus,From the inaugural rug pull. I thought this is the perfect way to bribe and pay for favors through shit coins in crypto  unethical and should be illegal.,True,1,
+The Trump boys just yeeted “American Bitcoin” onto Nasdaq and it’s already a circus,Donald Trump has politicized bitcoin trading. Avoid it like the plague!,True,1,
+The Trump boys just yeeted “American Bitcoin” onto Nasdaq and it’s already a circus,"Just like when the dollar dumped the gold standard and is now just a piece of paper being backed up by an economy that can collapse, how is it different with crypto.",True,1,
+The Trump boys just yeeted “American Bitcoin” onto Nasdaq and it’s already a circus,"""Trump supporters show stupidity, get robbed, beg for more.""
+
+News is cyclical with this bunch of buffonery for the past decade. 
+
+Idiocracy was a documentary at this point.",True,1,
+The Trump boys just yeeted “American Bitcoin” onto Nasdaq and it’s already a circus,Well I can/t say I wish them good fortune ahead,True,1,
+The Trump boys just yeeted “American Bitcoin” onto Nasdaq and it’s already a circus,Crypto can be great but it also gives people the chance to make billions of dollars from suckers who will suffer from the loss totally legally with no actual consequences apart from getting filthy rich and adding a few more billion overnight. The trumps know this and have done it a few times now and made out like bandits sadly.,True,1,
+The Trump boys just yeeted “American Bitcoin” onto Nasdaq and it’s already a circus,"So the Trumps launched crypto scams in a single week, not bad.",True,1,
+The Trump boys just yeeted “American Bitcoin” onto Nasdaq and it’s already a circus,"Do not get distracted by the media and political circus.
+
+The fundamentals are clear, Bitcoin Cash (BCH) is the real Bitcoin and set to dominate in the future.",True,-19,
+Deposit $WLFI,"🚀 Big chance for $WLFI holders
+
+ Deposit a minimum of 125 WLFI on CoinEx and earn up to 50% cashback.
+The event is live and runs until Sept 8, 13:00 UTC ⏳.
+
+Don’t miss this limited-time opportunity to boost your holdings while being part of the $WLFI journey. 
+
+Act fast before the timer runs out.
+
+#WLFI #CoinEx #Crypto
+
+",False,0,
+Deposit $WLFI,Stick with the tried and true OG Bitcoin.  Bitcoin Cash (BCH),True,3,
+Deposit $WLFI,"View in your timezone:  
+[Sept 8, 13:00 UTC][0]  
+
+[0]: https://timee.io/20250908T1300?tl=Deposit%20%24WLFI",True,1,
+Deposit $WLFI,"Seriously? A scam running on top of a scam coin, that’s controlled by some scam members of a scam family?
+
+What could possibly go wrong?",True,0,
+Bitcoin retracing toward monthly pivot – waiting for confirmation,"Bitcoin continues to retrace toward the monthly pivot, in line with previous expectations. Encouragingly, price hasn’t been rejected at first contact, but at the same time it hasn’t shown the strength to break through either.
+
+The pivot remains a difficult level to clear without stronger volume support, which is still missing. The move above the 1x2 from the local top is slowing the decline, but overall BTC remains in a neutral zone. This has been the dominant pattern in recent months, aside from occasional bullish spikes often tied to liquidity grabs.
+
+Looking ahead, increased volatility is expected around September 7–8, which could trigger the next decisive move. The key will be whether this translates into a sustainable trend or just another short-term shakeout.
+
+What’s your view: accumulation phase or setup for a deeper correction?",False,0,
+Bitcoin retracing toward monthly pivot – waiting for confirmation,"BTC is a lost cause.  Slow and expensive transactions, practically useless.  
+
+The dev team is corporate hijacked and the tech is total trash.
+
+I would look into Bitcoin Cash (BCH) if I were you.",True,2,
+Bitcoin retracing toward monthly pivot – waiting for confirmation,Non nom,True,1,
+Bitcoin retracing toward monthly pivot – waiting for confirmation,Just stack BCH sats and thank me later.,True,1,
+Newbie investing in Bitcoin,"Hi guys 
+
+Looking for some advice before putting money into investing. Iv been watching bitcoin for some time and wanted to invest however I have limited knowledge and only really know that bitcoin keeps increasing in value and could crash at anytime. I wanted to learn more rather then blindly investing and hoping for the best. How did you learn about investing in bitcoin? What advice would you give? Any tips, words of wisdom advice etc would really be appreciated.",False,5,
+Newbie investing in Bitcoin,"I really really think everyone should read ""Hijacking Bitcoin: The Hidden History of BTC"" by Roger Ver,   before they start investing it Bitcoin.  
+Amazon: [https://www.amazon.com/dp/B0CXWBCWDR/](https://www.amazon.com/dp/B0CXWBCWDR/)  
+Full Official Audiobook: [https://www.youtube.com/watch?v=qOSHFGzjNnY](https://www.youtube.com/watch?v=qOSHFGzjNnY)  
+Short UNofficial audiobook: [https://www.youtube.com/watch?v=ETp7oyzDbmo](https://www.youtube.com/watch?v=ETp7oyzDbmo)",True,7,
+Newbie investing in Bitcoin,"Read the whitepaper, try to understand how it works, why it is titled a p2p cash system and not an digital asset.
+
+Wrap your head around that there are two Bitcoins and why the differ in their goals so dramatically. Try to find a reason why it should go up in price and what are you and others are going to do with it in the future.",True,7,
+Newbie investing in Bitcoin,"Only put in what you can lose, I treat it as gambling.
+
+
+Diversify, take profit, use the damn thing or whhats the point really",True,4,
+Newbie investing in Bitcoin,"Always do DCA while buying, choose authentic exchange for investment. Take little profit side by side and yes you can choose CoinEx for trading.",True,1,
+Newbie investing in Bitcoin,"Just get to know the space, you could research assets and wallets or lookup different crypto terms... [bitculator.com](http://bitculator.com) would be a good place to start",True,1,
+Newbie investing in Bitcoin, Best advice is don’t buy it. Buy real assets with uses.,True,1,
+Newbie investing in Bitcoin,Dead people make the best investors. Don’t touch it.,True,0,
+Newbie investing in Bitcoin,"Laser-eyed cultists give Bitcoin a bad image.
+
+That's a good part of the reason why mainstream considers Bitcoin and crypto to be scams.",True,1,
+Newbie investing in Bitcoin,"Fuck Pedophile president. Him and his ugly kids are putting a bad taste on crypto to the people that don't understand what crypto is, also people seeing the amount of money they are making while a lot are struggling doesn'tgo well with the public. At the same time what they are doing is legal (for the moment). Anything associated with the last name trump isn't going over well with the general public and constantly laughing product in crypto doesn't help.",True,6,
+Newbie investing in Bitcoin,"You to mean to hell?   
+Shitler is the worst.",True,6,
+Newbie investing in Bitcoin,Based on what?,True,2,
+Newbie investing in Bitcoin,You mean hid the Epstein files?,True,2,
+Newbie investing in Bitcoin,[https://np.reddit.com/r/AnythingGoesNews/comments/1e3buzi/trump\_on\_ivanka\_is\_it\_wrong\_to\_be\_more\_sexually/](https://np.reddit.com/r/AnythingGoesNews/comments/1e3buzi/trump_on_ivanka_is_it_wrong_to_be_more_sexually/),True,1,
+Newbie investing in Bitcoin,"Under section four of the fourteenth amendment, debt issued in the service of a coup against the United States has zero value.
+
+It's not yeeting the value of every asset, he's zeroing out the Trump dollar. 
+
+GO BUY NAZI BONDS! The American people will tell you what they were worth one day soon.",True,1,
+Newbie investing in Bitcoin,Go away spam bot,True,6,
+Newbie investing in Bitcoin,"Bitcoin Cash is your second chance at early Bitcoin adoption, remember that.",True,1,
+Newbie investing in Bitcoin,Excerpt from BLISS 2025: Announcing ParityUSD - Mathieu G: [https://www.youtube.com/watch?v=pPWeZaGtDFo](https://www.youtube.com/watch?v=pPWeZaGtDFo),True,2,
+Newbie investing in Bitcoin,"Is ParityUSD going to use GP price oracles?
+
+Because to cherry pick a quote saying ""So there is no need for an oracle. [to determine the global state of all loans]"", might be kind of misleading if the protocol was still using an oracle at it's core.",True,2,
+Newbie investing in Bitcoin,"The last time I heard ""trust minimized solution"" it was to do with the SmartBCH temporary bridge.
+
+I like to hear ""trustless"". Barring that, I like details about the trust that is needed. The oracle-based models are at least well understood.",True,1,
+Newbie investing in Bitcoin,No,True,1,
+Newbie investing in Bitcoin,"What OP is saying: Buy my heavy bags, become the next greater fool. 😎",True,4,
+Newbie investing in Bitcoin,[Consider this.](https://www.reddit.com/r/btc/comments/1n82vm4/as_you_can_see_in_the_illustration_below_it_means/ncc62eu/),True,2,
+Newbie investing in Bitcoin,This must be a photo from 2225?,True,3,
+Newbie investing in Bitcoin,We should start measuring in Satoshis.,True,-1,
+Newbie investing in Bitcoin,"yay, another pointless picture claiming to be proof we should buy bitcoin!!",True,12,
+Newbie investing in Bitcoin,"If BTC was any good there'd be no need for these incessant shilling threads that aim to persuade people to just buy for the sake of buying.
+
+It would spread by word of mouth and people learning how to use it.",True,8,
+Newbie investing in Bitcoin,Past performance does not guarantee future performance,True,5,
+Newbie investing in Bitcoin,This sub gets so many low tier internet point indian farm posts,True,2,
+Newbie investing in Bitcoin,I see nothing.,True,1,
+Newbie investing in Bitcoin,\*Indian Voice\* Results in the past are no guarantee for the future \*/Indian Voice\*,True,1,
+Newbie investing in Bitcoin,But how will we pay then?,True,1,
+Newbie investing in Bitcoin,"yeah, a picture of a burning dollar is irrefutable proof fiat is dead. Just cant argue with such a strong argument (/s) 🙄",True,1,
+Newbie investing in Bitcoin,"BTC is now controlled by the same people that control fiat.  Bitcoin Cash (BCH) is the real Bitcoin.
+
+# Hijacking Bitcoin: by Roger Ver
+
+[https://odysee.com/@Pantera:f/HijackingBitcoin:7](https://odysee.com/@Pantera:f/HijackingBitcoin:7)",True,1,
+Is It Possible to Find the Right Pair in 1 Minute? | Fast Crypto/Stock Scan,"Friends, most traders get bored scanning thousands of charts one by one and miss opportunities.
+
+In my own strategy, I've created a fast scanning system using the Multiple Timeframe (MTF) feature of the DDG indicator.
+
+This way, I can:
+
+Choose the right currency pair in seconds,
+
+I can instantly see which timeframes offer opportunities,
+
+I build a system instead of memorizing.
+
+It's been a significant time-saver for me.
+
+👉 What methods do you use when scanning currency pairs?
+
+📺 I explained it in more detail: Find the Right Currency Pair in 1 Minute! | Fast Crypto/Stock Scan",False,0,⌨ Discussion
+Is It Possible to Find the Right Pair in 1 Minute? | Fast Crypto/Stock Scan,📺 I explained it in more detail: Find the Right Pair in 1 Minute! | Fast Crypto/Stock Scan [https://youtu.be/ub44xJLuix4](https://youtu.be/ub44xJLuix4),True,1,⌨ Discussion
+Is It Possible to Find the Right Pair in 1 Minute? | Fast Crypto/Stock Scan,"BCH / MUSD is the pair you are looking for, both decentralized and non-custodial
+
+[https://app.cauldron.quest/tokens](https://app.cauldron.quest/tokens)",True,1,⌨ Discussion
+Is It Possible to Find the Right Pair in 1 Minute? | Fast Crypto/Stock Scan,Stop spamming your YouTube channel you 🧌,True,0,⌨ Discussion
+Is It Possible to Find the Right Pair in 1 Minute? | Fast Crypto/Stock Scan,"Its nothing like it.
+
+Slop.",True,8,⌨ Discussion
+Is It Possible to Find the Right Pair in 1 Minute? | Fast Crypto/Stock Scan,Good. Now if we can solve for mortality or at least extend lifespans to about 200 years or so then I can see my investment really pay off,True,2,⌨ Discussion
+Is It Possible to Find the Right Pair in 1 Minute? | Fast Crypto/Stock Scan,Maybe 10 years ago it was like that.,True,2,⌨ Discussion
+Is It Possible to Find the Right Pair in 1 Minute? | Fast Crypto/Stock Scan,"If this were true, wouldn't you want to own every single bitcoin?",True,1,⌨ Discussion
+Is It Possible to Find the Right Pair in 1 Minute? | Fast Crypto/Stock Scan,"More like BTC today = Compagnie d'Occident in 1717
+
+Unlike Manhattan real estate in the 1800s and more like Louisiana real estate in the very early 1700s, BTC has no real use case outside of speculation.
+
+BCH, on the other hand, is attempting to build a real use case (though in order to succeed it needs to lose the cap and encode privacy).",True,1,⌨ Discussion
+Is It Possible to Find the Right Pair in 1 Minute? | Fast Crypto/Stock Scan,Bitcoin Cash that is.,True,-1,⌨ Discussion
+Is It Possible to Find the Right Pair in 1 Minute? | Fast Crypto/Stock Scan,"again?
+
+I am glad we are starting to replace the broken CEX model with DEX solutions.
+
+Collecting government documents to interact with currency is one of the stupidest scams ever created.",True,2,⌨ Discussion
+League of Legends 1vs1 tournaments with BCH prizes @ afifthofgaming.com,"Greetings, I'm here once again to invite everyone to join us @ [afifthofgaming.com](http://afifthofgaming.com/) to have some fun and maybe earn some BCH while doing it. AFoG is an automated gaming tournaments platform created by u/Thanah85, that uses BCH for instant prize distribution as soon as events are over.
+
+Starting from this Saturday, we are going to have (pretty much casual) weekly League of Legends 1vs1 tournaments every Saturday at 22:00 CET, only for EU West players for now. AFoG uses a guild system where everyone can create a guild for whatever multiplayer game they want, so it could also host tournaments for other servers too if enough people are interested.
+
+The tournaments are free for all and they are going to have a small BCH prize. If you'd like to participate, please check the event's page [here](https://afifthofgaming.com/Session/Detail/2559), you'll have to create an account on AFoG to register. There are no requirements other than having an EU West account. Please join the AFoG discord for more info.
+
+https://preview.redd.it/aa0piwq2g0nf1.png?width=1600&format=png&auto=webp&s=08916db5eb157d0e4567baac4a92b5ccdde542e1
+
+",False,12,💵 Adoption
+bitcoin just broke its september curse for the third year straight,"september has historically been bitcoin's worst month. the numbers don't lie - it averaged -3.77% returns over 12 years from 2013. but we've now had three consecutive positive septembers, including 2024's best september ever at +7.29%.
+
+why september was always brutal
+
+the pattern started during the ico boom in 2017. china banned icos on september 4th, south korea followed on september 29th. that triggered six consecutive red septembers from 2017-2022.
+
+here's what made each september terrible:
+
+2017: china's ico ban triggered the first crypto winter
+2018: goldman sachs ""fake news"" about abandoning crypto desk plans. btc had already dropped from $20k to under $7k
+2019: bakkt's bitcoin futures launched to weak volumes and disappointing institutional interest
+2020: capital rotated into eth during defi summer 
+2021: china banned crypto mining and trading entirely
+2022: terra/luna collapse aftermath plus fed raised rates 0.75% (the fifth hike that year)
+
+ what changed in 2023-2024
+
+the streak finally broke in 2023 when a federal court ruled the sec's rejection of grayscale's btc etf was ""arbitrary and capricious."" that ruling happened august 29th and carried momentum into september.
+
+2024 was even better. we had:
+
+spot bitcoin etfs already approved and trading billions daily
+
+fed cut rates for the first time since march 2020 (september 18th)
+
+trump's world liberty financial launch got crypto into election narratives
+
+2025 setup looks different
+
+this september we're going in with:
+- established etf infrastructure pulling in institutional money
+- companies adding btc to treasury strategies 
+- rumors about china potentially allowing offshore yuan stablecoins
+- fed chair powell's dovish jackson hole speech hinting at more rate cuts
+- fomc meeting september 16-17 where another cut is widely expected
+
+ historical context
+
+september being weak isn't just a bitcoin thing. it's historically the worst month for the s&p 500 too. investors return from summer with risk-off attitudes and funds rebalance for q4.
+
+but the pattern often reverses in october. bitcoin has posted gains in six consecutive octobers with only two losses in its entire history.
+
+ my take
+
+the regulatory environment that created the september curse is largely gone. china already did their worst damage. the us has clarity with etfs approved. rate cuts instead of hikes.
+
+we've broken the psychological barrier three years running now. the question is whether institutional flows and macro conditions can keep this momentum going or if we revert to the historical pattern.
+
+with all this potential volatility and the increasing complexity of bitcoin investing (etfs, corporate treasuries, derivatives), keeping track of everything for tax purposes is becoming more important than ever. i've been using awaken.tax to stay organized since the irs is definitely paying attention to crypto gains, especially with institutional adoption making bitcoin more mainstream.
+
+key things to watch:
+fed meeting september 16-17
+etf flows throughout the month  
+any regulatory surprises from other jurisdictions
+
+what do you think? is the september curse actually dead or are we just in a temporary break from the pattern?",False,0,⌨ Discussion
+bitcoin just broke its september curse for the third year straight,Mate don’t speak to soon.. BTC can easily pump to 116k and then go to create a new lower low around 104-99k so September has plenty of time to ruin hopes and dreams,True,1,⌨ Discussion
+Bitcoin derivative traders foresee a bullish September despite historical dip,September’s potential Fed rate cut is expected to skyrocket BTC.,False,0,
+Bitcoin derivative traders foresee a bullish September despite historical dip,Nothing says stability to the rest of the world than a president making his fortune off shit coins.,True,3,
+Bitcoin derivative traders foresee a bullish September despite historical dip,"Trump & sons have no clue what crypto is,",True,3,
+Bitcoin derivative traders foresee a bullish September despite historical dip,Of course it is.  They are openly taking bribes from fraudsters and sketchy nations via their scam coin.,True,3,
+"If Bitcoin just becomes another product offered by your bank, custodied by a third party, and transacted on a fully permissioned and surveilled network, it loses its entire reason for being",[Birth of Bitcoin](https://open.substack.com/pub/satoshifiles/p/birth-of-bitcoin-ba1?r=22nw3o&utm_medium=ios) book is coming out soon. I wrote it. ,False,70,
+"If Bitcoin just becomes another product offered by your bank, custodied by a third party, and transacted on a fully permissioned and surveilled network, it loses its entire reason for being","…and thus Blockstream and the current BTC phenomenon.
+
+…and also thus BCH, XMR, Zano, etc.",True,8,
+"If Bitcoin just becomes another product offered by your bank, custodied by a third party, and transacted on a fully permissioned and surveilled network, it loses its entire reason for being","well not the ENTIRE, but some of it. 
+
+i mean it's always something that's almost entirely up to the lawmakers with guns aka governments. they can make transacting in btc punishable by death and guess what ? it'll lose a lot too ;d 
+
+now on the opposite side of the spectrum is the reality where everyone accepts that it's decentralized and has limited supply. and do not attempt to challenge that.",True,3,
+"If Bitcoin just becomes another product offered by your bank, custodied by a third party, and transacted on a fully permissioned and surveilled network, it loses its entire reason for being",That happened years ago when it went from currency to digital gold  at the hijacking.,True,3,
+"If Bitcoin just becomes another product offered by your bank, custodied by a third party, and transacted on a fully permissioned and surveilled network, it loses its entire reason for being",How does that happen exactly?,True,3,
+"If Bitcoin just becomes another product offered by your bank, custodied by a third party, and transacted on a fully permissioned and surveilled network, it loses its entire reason for being",Nothing beats fixed supply,True,6,
+"If Bitcoin just becomes another product offered by your bank, custodied by a third party, and transacted on a fully permissioned and surveilled network, it loses its entire reason for being","There will always be people using Electrum with a Hardware Wallet 
+
+That crowd will never disappear. 
+
+The only people that will be holding bitcoin through some bank account will be senior citizen billionaires that do all their transactions over the telephone and they get a daily briefing of their portfolio from some secretary that’s in charge of making coffee and keeping pencils sharpened.",True,1,
+"If Bitcoin just becomes another product offered by your bank, custodied by a third party, and transacted on a fully permissioned and surveilled network, it loses its entire reason for being","I think very few people will self custody if interest-paying banks emerge.
+
+The reason people dont keep their wealth in dollars under their mattress is because you get interest if you deposit it in a bank.
+
+So that's better than not getting interest.  Same would apply to bitcoin. Who would pass up risk free interest payments?
+
+But, in order for banks to emerge, there would have to be a market of people who want to borrow bitcoin to use it for some actual economic purpose... which would mean you would need to be able to buy stuff with bitcoin (which you cant) and get paid in bitcoin (which you cant)
+
+The only people who want to borrow bitcoin today are speculators shorting it for dollars, or who are doing some sort of scam and wont repay.  Banks wont emerge if there is no market useful economic purpose for bitcoin. 
+
+If there were a useful economic activity that you could use bitcoin for, then certainly banks would emerge to provide interest and loans.  
+
+They would effectively lend more bitcoin into existence, just like conventional banks do with dollars.",True,1,
+"If Bitcoin just becomes another product offered by your bank, custodied by a third party, and transacted on a fully permissioned and surveilled network, it loses its entire reason for being","Well...
+
+...not really, if it's FDIC insured, then if the 3rd party defaulted the government would pay up, if the government paid up it would print money, if the government printed money those with self custody bitcoin would benefit.
+
+So... if I want my bitcoin to become more valuable in fiat numbers, I may look at the OP's hypothesis as attacking bitcoin.",True,1,
+"If Bitcoin just becomes another product offered by your bank, custodied by a third party, and transacted on a fully permissioned and surveilled network, it loses its entire reason for being","That’s why monero exists, the real bitcoin",True,-1,
+"If Bitcoin just becomes another product offered by your bank, custodied by a third party, and transacted on a fully permissioned and surveilled network, it loses its entire reason for being","Custody services exist today. It serves a purpose, nothing wrong with it. The problem is that we do not have an option to self-custody our current money without being punished by inflation. Ie: you can keep cash under the mattress, but you will lose money.",True,0,
+"If Bitcoin just becomes another product offered by your bank, custodied by a third party, and transacted on a fully permissioned and surveilled network, it loses its entire reason for being",A major problem with banks is that they will be called hypocrites when they start offering BTC to their customers,True,0,
+"If Bitcoin just becomes another product offered by your bank, custodied by a third party, and transacted on a fully permissioned and surveilled network, it loses its entire reason for being",Meh,True,2,
+"If Bitcoin just becomes another product offered by your bank, custodied by a third party, and transacted on a fully permissioned and surveilled network, it loses its entire reason for being",Lol,True,1,
+"If Bitcoin just becomes another product offered by your bank, custodied by a third party, and transacted on a fully permissioned and surveilled network, it loses its entire reason for being",Shout out to the dragon riders!,True,1,
+"If Bitcoin just becomes another product offered by your bank, custodied by a third party, and transacted on a fully permissioned and surveilled network, it loses its entire reason for being",Lmaoooo,True,1,
+No one knows how much gold is really out there ⚱️🔱⚜️,"There are only 21 Million bitcoins in this world but there is no true figure of how much gold is out there in this world. 
+
+Religious institutions hold wayyyy more gold than they admit. They’ve been hoarding it since the beginning of time. They don’t go around telling people their true power. ",False,2,
+No one knows how much gold is really out there ⚱️🔱⚜️,"If BTC ever became the dominant currency it would probably have some form of credit managed by institutions on their own private ledgers, the paper BTC would most likely be acceptable by most participants as fungible with the on chain version. If BTC doesn't expand past 21 million on its base layer you can be certain that eventually the economy and participants will eventually create more through credit.",True,3,
+No one knows how much gold is really out there ⚱️🔱⚜️,Although there will be 21 million bitcoins; there is no true figure of how much accessible BTC there is. Dumb comparison,True,2,
+No one knows how much gold is really out there ⚱️🔱⚜️,"Really true, for the simple fact of being on the network, we already know, but to know how to now we should analyze the whole world and all its lands",True,1,
+No one knows how much gold is really out there ⚱️🔱⚜️,Is the real difference that BTC’s cap is transparent while gold’s isn’t?,True,1,
+No one knows how much gold is really out there ⚱️🔱⚜️,"true, and a lot of gold will never be accounted for to keep gold prices up high.. but imagine the world's gold reserves doubling overnight, it would be the equivalent of inflation for gold.. so it's not a power one can tap into really, holding onto wealth gives you power, because you can leverage it and show the world this is what I got and make the world work for you.. wealth when unaccounted for is just sitting in a vault and has zero benefit in the real world",True,1,
+No one knows how much gold is really out there ⚱️🔱⚜️,"Comparing gold to BTC is wild, gold is useful and a massive asset to humanity, BTC offers almost zero use case and eventually the corporations will leave you all holding the bag, probably not long after quantum computers very quickly mine the remaining BTC making it the polar opposite to decentralised. 
+
+Never understood the whole ‘Digital Gold’ shill, because at almost no point has BTC even been remotely useful",True,1,
+No one knows how much gold is really out there ⚱️🔱⚜️,BTC is nothing. No comparison.,True,1,
+No one knows how much gold is really out there ⚱️🔱⚜️,"Bitcoin has nothing to do with gold.
+
+Bitcoin is a peer to peer electronic cash system.",True,-1,
+No one knows how much gold is really out there ⚱️🔱⚜️,It doesn't matter. The price of money has nothing to do with its quantity,True,0,
+No one knows how much gold is really out there ⚱️🔱⚜️,"Mercury and platinum can be converted into gold. Since platinum and mercury have similar nucleus compositions when compared with gold, repeatedly subjecting platinum or mercury nuclei to neutron bombardment could knock off or add on a neutron, eventually creating gold.
+
+Can’t do that with Bitcoin.",True,-2,
+No one knows how much gold is really out there ⚱️🔱⚜️,Sounds like you should post this to r/ledger,True,4,
+No one knows how much gold is really out there ⚱️🔱⚜️,"> It's designed to reset if it detects some types of abnormal voltage on the USB port. Safe to restore. Make sure you only input the seed phrase on the device, not on your computer, phone et
+
+I did not know this (posting this answer here from another responder on the other sub because others may find it helpful to know).",True,2,
+No one knows how much gold is really out there ⚱️🔱⚜️,Sounds like a hardware failure. Contact ledger support - maybe it's a known issue and you'll get a replacement device,True,1,
+No one knows how much gold is really out there ⚱️🔱⚜️,What happens to your crypto?,True,1,
+No one knows how much gold is really out there ⚱️🔱⚜️,"Hardware wallets are a bad idea in general.
+
+Get a used laptop, format, install Linux, and use electron cash wallet.
+
+[https://electroncash.org/](https://electroncash.org/)",True,0,
+"In your opinion, what is the most reliable way to tell if a market is bullish or bearish?","Friends, today I wanted to talk to you about the indicators that truly capture the pulse of the crypto market. Is the market bullish or bearish? I believe I get a clearer picture not only by looking at charts but also by studying the indicators that drive market dynamics.
+
+
+
+Fundamental metrics, especially those related to US markets (S&P 500, Nasdaq), Bitcoin, and stablecoin dominance, always guide me.",False,0,⌨ Discussion
+"In your opinion, what is the most reliable way to tell if a market is bullish or bearish?","Coinmarketcap All time High = $124,457.11
+
+50 day MA = $115,643
+
+200 day MA = $101,464
+
+50 week MA = $95,930
+
+200 week MA = $52,298",True,2,⌨ Discussion
+"In your opinion, what is the most reliable way to tell if a market is bullish or bearish?","Cool. Thanks for not saying anything about what specific metrics and analyzes tell you this and how they determine bear/bull. Good job, really great actually 👏",True,1,⌨ Discussion
+"This sub is to discuss Bitcoin the technology (BTC), and is not strictly limited to the Bitcoin Core fork which hijacked the name BTC. You can discuss anything related to Bitcoin (BTC) technology including BTCore, BCH, BSV, XEC. If you don’t like that fact, go ask Bitcoin Core to rename from BTC.","To all the trolls appearing out of the woodwork, here is your answer.
+
+If you don’t like that Bitcoin the technology is called BTC and the hijacked throttled Core-controlled fork is also called BTC, go speak to Bitcoin Core to rename to something like BLN (Bitcoin Lightning Network) or BCC (Bitcoin Core) or BSW (Bitcoin SegWit) or B50 (Bitcoin with $50 per transaction). Don’t come crying here about us freely discussing the technology and the forks which actually work; i.e., BCH.
+
+Keep trollin’, we love the engagement. ",False,33,
+"This sub is to discuss Bitcoin the technology (BTC), and is not strictly limited to the Bitcoin Core fork which hijacked the name BTC. You can discuss anything related to Bitcoin (BTC) technology including BTCore, BCH, BSV, XEC. If you don’t like that fact, go ask Bitcoin Core to rename from BTC.",Well said.,True,13,
+"This sub is to discuss Bitcoin the technology (BTC), and is not strictly limited to the Bitcoin Core fork which hijacked the name BTC. You can discuss anything related to Bitcoin (BTC) technology including BTCore, BCH, BSV, XEC. If you don’t like that fact, go ask Bitcoin Core to rename from BTC.","BSCore coin maxis are retarded because they gave away 99.999% of what Bitcoin could have been for the privilege of being assreamed by BSCore.
+
+I always thought that was a shitty deal, unless you‘re into that sort of thing.",True,6,
+"This sub is to discuss Bitcoin the technology (BTC), and is not strictly limited to the Bitcoin Core fork which hijacked the name BTC. You can discuss anything related to Bitcoin (BTC) technology including BTCore, BCH, BSV, XEC. If you don’t like that fact, go ask Bitcoin Core to rename from BTC.",Bingo. This has consistently been the case since theymos started clamping down on what could be talked about in /r/bitcoin in 2014.,True,12,
+"This sub is to discuss Bitcoin the technology (BTC), and is not strictly limited to the Bitcoin Core fork which hijacked the name BTC. You can discuss anything related to Bitcoin (BTC) technology including BTCore, BCH, BSV, XEC. If you don’t like that fact, go ask Bitcoin Core to rename from BTC.","BTC is a ticker symbol for a particular coin.  Unfortunately, before this sub was created the blockchain now controlled by Blockstream had that ticker symbol and still has it.
+
+Given that you distinguish between Bitcoin (the technology) and the various different implementations of it correctly, the proper name for this sub should be r/Bitcoin (the name of the technology) and the proper name for Blockstream’s sub should be r/BTC (the ticker symbol for their coin)…
+
+…but u/theymos controls that and won’t give it up in order to be more correct.
+
+Remember, this sub was created as a reaction to u/theymos and his mod crew banning any content that did not align with Blockstream’s agenda for BTC (the coin they were highjacking).",True,17,
+"This sub is to discuss Bitcoin the technology (BTC), and is not strictly limited to the Bitcoin Core fork which hijacked the name BTC. You can discuss anything related to Bitcoin (BTC) technology including BTCore, BCH, BSV, XEC. If you don’t like that fact, go ask Bitcoin Core to rename from BTC.",Anyway the ticker was BC before 2010.,True,2,
+"This sub is to discuss Bitcoin the technology (BTC), and is not strictly limited to the Bitcoin Core fork which hijacked the name BTC. You can discuss anything related to Bitcoin (BTC) technology including BTCore, BCH, BSV, XEC. If you don’t like that fact, go ask Bitcoin Core to rename from BTC.",This isn’t a subreddit. It’s a civil war.,True,3,
+"This sub is to discuss Bitcoin the technology (BTC), and is not strictly limited to the Bitcoin Core fork which hijacked the name BTC. You can discuss anything related to Bitcoin (BTC) technology including BTCore, BCH, BSV, XEC. If you don’t like that fact, go ask Bitcoin Core to rename from BTC.","While I agree that all forks are Bitcoin and we should be able to discuss everything related to bitcoin, the bitcoin core fork didn't hijack the name. Bitcoin is the chain with the most work, that's the whole point of it. It's not the number of users, the price or the one that you like the most that determines the real chain, it's the chain with the most work, it's in the whitepaper.
+I'm not trying to say bitcoin core is better than bitcoin cash, I like both, but it's wrong to say that bitcoin core hijacked the name.",True,1,
+"This sub is to discuss Bitcoin the technology (BTC), and is not strictly limited to the Bitcoin Core fork which hijacked the name BTC. You can discuss anything related to Bitcoin (BTC) technology including BTCore, BCH, BSV, XEC. If you don’t like that fact, go ask Bitcoin Core to rename from BTC.","Whew, all this cryptocurrency hacking has made me thirsty. I think I'll order a Tab.",True,1,
+"This sub is to discuss Bitcoin the technology (BTC), and is not strictly limited to the Bitcoin Core fork which hijacked the name BTC. You can discuss anything related to Bitcoin (BTC) technology including BTCore, BCH, BSV, XEC. If you don’t like that fact, go ask Bitcoin Core to rename from BTC.",">XEC
+
+damn, I didn't even know about this one, apparently I have about 7.3 million of them
+
+(time for another harrowing currency-splitting adventure I guess)",True,1,
+"This sub is to discuss Bitcoin the technology (BTC), and is not strictly limited to the Bitcoin Core fork which hijacked the name BTC. You can discuss anything related to Bitcoin (BTC) technology including BTCore, BCH, BSV, XEC. If you don’t like that fact, go ask Bitcoin Core to rename from BTC.","BTC is a ticker symbol, not a technology",True,1,
+"This sub is to discuss Bitcoin the technology (BTC), and is not strictly limited to the Bitcoin Core fork which hijacked the name BTC. You can discuss anything related to Bitcoin (BTC) technology including BTCore, BCH, BSV, XEC. If you don’t like that fact, go ask Bitcoin Core to rename from BTC.",Yall said bitcoin sub is against discussion but why did you take off the other post huh??,True,1,
+"This sub is to discuss Bitcoin the technology (BTC), and is not strictly limited to the Bitcoin Core fork which hijacked the name BTC. You can discuss anything related to Bitcoin (BTC) technology including BTCore, BCH, BSV, XEC. If you don’t like that fact, go ask Bitcoin Core to rename from BTC.",BCH would’ve been a good bet if bitcoin had been adopted as currency but instead it was adopted as a store of value rather than an alternative currency so sadly bitcoin cash doesn’t have a strong use case because investors aren’t looking for the next currency they’re looking for the next way to store money 🤷 it was a bad bet,True,-5,
+"This sub is to discuss Bitcoin the technology (BTC), and is not strictly limited to the Bitcoin Core fork which hijacked the name BTC. You can discuss anything related to Bitcoin (BTC) technology including BTCore, BCH, BSV, XEC. If you don’t like that fact, go ask Bitcoin Core to rename from BTC.","The BCH shills are exhausting. We get it, you don't like Bitcoin Core. But the main difference between Bitcoin and BCH is one has way more demand, adoption, and usage than the other. I'll let you figure out which one that is.",True,-1,
+"This sub is to discuss Bitcoin the technology (BTC), and is not strictly limited to the Bitcoin Core fork which hijacked the name BTC. You can discuss anything related to Bitcoin (BTC) technology including BTCore, BCH, BSV, XEC. If you don’t like that fact, go ask Bitcoin Core to rename from BTC.",Trying to claim BTC for Bitcoin Cash is a lost case. The industry voted years ago. And it is solidly settled that Bitcoin Cash is abbreviated BCH and Bitcoin (Core) is abbreviated BTC or more formally XBT depending on the context.,True,-5,
+"This sub is to discuss Bitcoin the technology (BTC), and is not strictly limited to the Bitcoin Core fork which hijacked the name BTC. You can discuss anything related to Bitcoin (BTC) technology including BTCore, BCH, BSV, XEC. If you don’t like that fact, go ask Bitcoin Core to rename from BTC.",Oh so that’s what this sub is. Then I’m out. ,True,-4,
+Bitcoin’s resilience above $100K,"Bitcoin has now been holding above $100,000 for an extended period of time.
+What once seemed like an unreachable milestone is becoming a consistent level.
+
+Each cycle has redefined expectations, and this one appears no different.
+Whether this marks a new long-term support or just a phase of the current market, it’s a notable sign of resilience.
+
+Curious to hear what others think — is $100K turning into the new baseline, or is caution still warranted?",False,0,
+Bitcoin’s resilience above $100K,The cascade effect up from the impact of ETFs and corporate “treasuries” lead to the risk of the same cascade effect down. Couple that with the leverage used by companies like MSTR and you could easily have a death spiral.,True,2,
+Bitcoin’s resilience above $100K,Quit acting like it’s a currency and not you trying to get rich quick,True,3,
+Bitcoin’s resilience above $100K,"BTC does not work as money.  Slow, unreliable, and expensive transactions make it useless.
+
+Bitcoin Cash (BCH) is what you were thinking of when making this meme.
+
+BCH has instant ans cheap transactions that work every time.",True,3,
+Bitcoin’s resilience above $100K,"Ah yes, the future of currency at 7 TPS",True,2,
+Bitcoin’s resilience above $100K,"We already have digital money, we don't need BTC or any other crypto. Existing systems just work and don't have the difficulty that comes with holding BTC/crypto.",True,-2,
+Bitcoin’s resilience above $100K,No .,True,1,
