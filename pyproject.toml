@@ -23,6 +23,7 @@ dependencies = [
     "packaging>=23.0",
     "joblib>=1.5.2",
     "tensorflow>=2.20.0",
+    "scikit-learn>=1.7.2",
 ]
 
 [tool.setuptools]
