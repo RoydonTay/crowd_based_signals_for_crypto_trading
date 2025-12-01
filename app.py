@@ -8,6 +8,14 @@ import yfinance as yf
 import joblib
 from tensorflow.keras.models import load_model
 
+# Optional import for interactive charts
+try:
+    import plotly.graph_objects as go
+    from plotly.subplots import make_subplots
+    PLOTLY_AVAILABLE = True
+except ImportError:
+    PLOTLY_AVAILABLE = False
+
 LOOKBACK = 10
 MODEL_DIR = Path("models")
 MODEL_FILENAME = "eth_cnn_gru_saved.keras"
@@ -54,13 +62,13 @@ def load_artifacts():
     labels_path = MODEL_DIR / LABELS_FILENAME
 
     if not model_path.exists():
-        st.error(f"Missing model file at {model_path}.")
+        st.error(f"🚫 Missing model file at `{model_path}`")
         st.stop()
     if not scaler_path.exists():
-        st.error(f"Missing scaler file at {scaler_path}.")
+        st.error(f"🚫 Missing scaler file at `{scaler_path}`")
         st.stop()
     if not labels_path.exists():
-        st.error(f"Missing label file at {labels_path}.")
+        st.error(f"🚫 Missing label file at `{labels_path}`")
         st.stop()
 
     model = load_model(model_path)
@@ -186,50 +194,246 @@ def get_latest_prediction(
 
 
 def render_price_chart(df: pd.DataFrame, days: int = 180):
-    chart_df = df[["Close"]].copy()
+    """Render interactive candlestick chart with Plotly or fallback to basic chart"""
+    chart_df = df.copy()
     if isinstance(chart_df.index, pd.DatetimeIndex):
         start_date = chart_df.index.max() - pd.Timedelta(days=days)
         chart_df = chart_df.loc[chart_df.index >= start_date]
-    chart_df = chart_df.rename(columns={"Close": "ETH Close (USD)"})
-    st.line_chart(chart_df)
+    
+    if PLOTLY_AVAILABLE:
+        # Create interactive candlestick + volume chart
+        fig = make_subplots(
+            rows=2, cols=1,
+            shared_xaxes=True,
+            vertical_spacing=0.05,
+            row_heights=[0.7, 0.3],
+            subplot_titles=('<b>ETH Price (USD)</b>', '<b>Trading Volume</b>')
+        )
+        
+        # Candlestick chart with custom colors
+        fig.add_trace(
+            go.Candlestick(
+                x=chart_df.index,
+                open=chart_df['Open'],
+                high=chart_df['High'],
+                low=chart_df['Low'],
+                close=chart_df['Close'],
+                name='ETH-USD',
+                increasing_line_color='#00f2fe',
+                decreasing_line_color='#fa709a',
+                increasing_fillcolor='rgba(0, 242, 254, 0.8)',
+                decreasing_fillcolor='rgba(250, 112, 154, 0.8)'
+            ),
+            row=1, col=1
+        )
+        
+        # Volume bars with gradient colors
+        colors = ['rgba(0, 242, 254, 0.6)' if chart_df['Close'].iloc[i] >= chart_df['Open'].iloc[i] 
+                  else 'rgba(250, 112, 154, 0.6)' for i in range(len(chart_df))]
+        
+        fig.add_trace(
+            go.Bar(
+                x=chart_df.index, 
+                y=chart_df['Volume'], 
+                name='Volume',
+                marker_color=colors,
+                showlegend=False
+            ),
+            row=2, col=1
+        )
+        
+        # Enhanced layout with better styling
+        fig.update_layout(
+            height=650,
+            xaxis_rangeslider_visible=False,
+            hovermode='x unified',
+            template='plotly_dark',
+            showlegend=False,
+            paper_bgcolor='rgba(0,0,0,0)',
+            plot_bgcolor='rgba(17,17,17,0.4)',
+            font=dict(
+                family="Arial, sans-serif",
+                size=12,
+                color='#ffffff'
+            ),
+            margin=dict(l=10, r=10, t=40, b=10)
+        )
+        
+        # Update axes styling
+        fig.update_xaxes(
+            title_text="<b>Date</b>", 
+            row=2, col=1,
+            gridcolor='rgba(128, 128, 128, 0.2)',
+            showgrid=True
+        )
+        fig.update_yaxes(
+            title_text="<b>Price (USD)</b>", 
+            row=1, col=1,
+            gridcolor='rgba(128, 128, 128, 0.2)',
+            showgrid=True
+        )
+        fig.update_yaxes(
+            title_text="<b>Volume</b>", 
+            row=2, col=1,
+            gridcolor='rgba(128, 128, 128, 0.2)',
+            showgrid=True
+        )
+        
+        st.plotly_chart(fig, use_container_width=True)
+    else:
+        # Fallback to basic line chart
+        simple_chart = chart_df[["Close"]].copy()
+        simple_chart = simple_chart.rename(columns={"Close": "💰 ETH Close (USD)"})
+        st.line_chart(simple_chart, height=500)
 
 
 def main():
-    st.set_page_config(page_title="ETH CNN-GRU Monitor", layout="wide")
-    st.title("Ethereum CNN + GRU Signal Monitor")
-    st.caption("Streaming the latest ETH close and model signal.")
+    st.set_page_config(
+        page_title="ETH CNN-GRU Monitor", 
+        layout="wide",
+        page_icon="📈"
+    )
+    
+    # Custom CSS for better styling
+    st.markdown("""
+        <style>
+        /* Main title styling */
+        .main-title {
+            color: #ffffff;
+            font-size: 2.5rem;
+            font-weight: 700;
+            margin-bottom: 0.5rem;
+            letter-spacing: -0.5px;
+        }
+        
+        /* Card styling */
+        .prediction-card {
+            background: #667eea;
+            padding: 2rem;
+            border-radius: 15px;
+            box-shadow: 0 8px 32px rgba(102, 126, 234, 0.3);
+            margin: 1.5rem 0;
+            color: white;
+        }
+        
+        .signal-positive {
+            background: #11998e;
+        }
+        
+        .signal-negative {
+            background: #eb3349;
+        }
+        
+        .signal-uptrend {
+            background: #4facfe;
+        }
+        
+        .signal-downtrend {
+            background: #fa709a;
+        }
+        
+        /* Info box styling */
+        .info-box {
+            background: rgba(102, 126, 234, 0.1);
+            border-left: 4px solid #667eea;
+            padding: 1rem 1.5rem;
+            border-radius: 8px;
+            margin: 1rem 0;
+        }
+        
+        /* Price metric styling */
+        .price-metric {
+            text-align: center;
+            padding: 1.5rem;
+            background: linear-gradient(135deg, rgba(102, 126, 234, 0.1) 0%, rgba(118, 75, 162, 0.1) 100%);
+            border-radius: 12px;
+            margin: 1rem 0;
+        }
+        
+        .price-value {
+            font-size: 2.5rem;
+            font-weight: 700;
+            color: #667eea;
+        }
+        
+        .price-label {
+            font-size: 1rem;
+            color: #888;
+            margin-bottom: 0.5rem;
+        }
+        
+        /* Button styling */
+        .stButton>button {
+            background: linear-gradient(90deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border: none;
+            border-radius: 8px;
+            padding: 0.5rem 2rem;
+            font-weight: 600;
+            transition: transform 0.2s;
+        }
+        
+        .stButton>button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 20px rgba(102, 126, 234, 0.4);
+        }
+        
+        /* Section headers */
+        .section-header {
+            font-size: 1.8rem;
+            font-weight: 700;
+            margin: 2rem 0 1rem 0;
+            color: #ffffff;
+            border-bottom: 3px solid #667eea;
+            padding-bottom: 0.5rem;
+        }
+        
+        /* Emoji styling */
+        .emoji-large {
+            font-size: 3rem;
+            margin-right: 1rem;
+        }
+        </style>
+    """, unsafe_allow_html=True)
+    
+    st.markdown('<h1 class="main-title"> Ethereum CNN + GRU Signal Monitor</h1>', unsafe_allow_html=True)
+    st.caption("🔄 Real-time ETH price tracking with AI-powered trend predictions")
 
     if "price_df" not in st.session_state:
-        with st.spinner("Fetching latest ETH candles…"):
+        with st.spinner("🔄 Fetching latest ETH data from yfinance..."):
             try:
                 initialize_price_dataframe()
             except Exception as exc:
-                st.error(f"Unable to load live data: {exc}")
+                st.error(f"❌ Unable to load live data: {exc}")
                 st.stop()
 
-    refresh_col, info_col = st.columns([1, 3])
-    with refresh_col:
-        if st.button("Refresh latest data", type="primary"):
-            with st.spinner("Pulling fresh ETH candles…"):
+    # Refresh button and info section
+    col1, col2, col3 = st.columns([1, 2, 1])
+    with col2:
+        if st.button("🔄 Refresh Latest Data", type="primary", use_container_width=True):
+            with st.spinner("📡 Pulling fresh ETH candles…"):
                 try:
                     live_df, current_price = fetch_latest_dataframe()
                 except Exception as exc:  # pragma: no cover
-                    st.error(f"Unable to refresh data: {exc}")
+                    st.error(f"❌ Unable to refresh data: {exc}")
                 else:
                     st.session_state.price_df = live_df
                     st.session_state.data_source = f"Live yfinance ({LIVE_PERIOD})"
                     st.session_state.current_price = current_price
                     st.session_state.last_refresh = pd.Timestamp.utcnow()
-                    st.toast("Price data refreshed", icon="✅")
+                    st.toast("✅ Price data refreshed successfully!", icon="🎉")
                     st.rerun()
-
-    with info_col:
-        source = st.session_state.get("data_source", "Saved dataset")
-        last_refresh = st.session_state.get("last_refresh")
-        if last_refresh is None:
-            st.info(f"Data source: {source}")
-        else:
-            st.info(f"Data source: {source} | Last refresh (UTC): {last_refresh:%Y-%m-%d %H:%M:%S}")
+    
+    # Data source info box
+    source = st.session_state.get("data_source", "Saved dataset")
+    last_refresh = st.session_state.get("last_refresh")
+    if last_refresh is None:
+        st.markdown(f'<div class="info-box">📊 <b>Data source:</b> {source}</div>', unsafe_allow_html=True)
+    else:
+        st.markdown(
+            f'<div class="info-box">📊 <b>Data source:</b> {source} | ⏰ <b>Last refresh (UTC):</b> {last_refresh:%Y-%m-%d %H:%M:%S}</div>', 
+            unsafe_allow_html=True
+        )
 
     model, scaler, labels = load_artifacts()
     price_df = st.session_state.price_df
@@ -239,21 +443,63 @@ def main():
     latest_date = price_df.index[-1]
     latest_close = float(price_df["Close"].iloc[-1])
 
-    st.subheader("Latest Model Prediction")
+    # Current price display
+    st.markdown("---")
+    col1, col2, col3 = st.columns([1, 2, 1])
+    with col2:
+        st.markdown(f"""
+            <div class="price-metric">
+                <div class="price-label">💰 Current ETH Price</div>
+                <div class="price-value">${latest_close:,.2f}</div>
+                <div class="price-label">As of {latest_date:%Y-%m-%d}</div>
+            </div>
+        """, unsafe_allow_html=True)
+
+    # Prediction section with enhanced styling
+    st.markdown('<div class="section-header">AI Model Prediction</div>', unsafe_allow_html=True)
+    
     if prediction_info is None:
-        st.info("Not enough clean data to form a lookback window yet.")
+        st.info("⏳ Not enough clean data to form a lookback window yet. Please refresh data.")
     else:
         trend_label = TREND_LABEL_MAP.get(
             prediction_info["label"], f"Label {prediction_info['label']}"
         )
-        st.metric(
-            label=f"Next-day signal for {prediction_info['date']:%Y-%m-%d}",
-            value=f"{trend_label} (class {prediction_info['pred_idx']})",
-        )
-        st.write(prediction_info["description"])
+        
+        # Choose card style based on prediction
+        signal_class = ""
+        emoji = "📊"
+        if prediction_info['pred_idx'] == 0:
+            signal_class = "signal-positive"
+            emoji = "📈"
+        elif prediction_info['pred_idx'] == 1:
+            signal_class = "signal-negative"
+            emoji = "📉"
+        elif prediction_info['pred_idx'] == 2:
+            signal_class = "signal-uptrend"
+            emoji = "🚀"
+        elif prediction_info['pred_idx'] == 3:
+            signal_class = "signal-downtrend"
+            emoji = "⚠️"
+        
+        st.markdown(f"""
+            <div class="prediction-card {signal_class}">
+                <h3 style="margin: 0 0 0.75rem 0; color: white;">{emoji} {trend_label}</h3>
+                <p style="margin: 0.5rem 0; color: rgba(255, 255, 255, 0.9);">📅 {prediction_info['date']:%Y-%m-%d}</p>
+                <p style="margin: 0.5rem 0; color: rgba(255, 255, 255, 0.9);">{prediction_info['description']}</p>
+            </div>
+        """, unsafe_allow_html=True)
 
-    st.subheader("Recent ETH Close Price")
+    # Price chart section
+    st.markdown('<div class="section-header">Historical Price Chart</div>', unsafe_allow_html=True)
+    if not PLOTLY_AVAILABLE:
+        st.markdown("""
+            <div class="info-box" style="background: rgba(255, 193, 7, 0.1); border-left-color: #ffc107;">
+                💡 <b>Tip:</b> Install <code>plotly</code> for interactive candlestick charts with volume: <code>pip install plotly</code>
+            </div>
+        """, unsafe_allow_html=True)
     render_price_chart(price_df)
+    
+    st.markdown("---")
 
 
 if __name__ == "__main__":
