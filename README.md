@@ -1,22 +1,26 @@
-# Reddit Data Collection with GitHub Actions
+# NUS Fintech Society: Crowd Based Signals For Algo Crypto Trading
 
-This project automatically collects Reddit data from cryptocurrency-related subreddits and uploads the results to Google Drive on a daily schedule.
+This project was completed by members of the NUS Fintech Society (ML Dept). This repository contains the code for data collection, processing and model training experiments.
 
-## Features
+## Reddit Data Collection with GitHub Actions (Turned Off)
+
+This repository automatically collects Reddit data from cryptocurrency-related subreddits and uploads the results to Google Drive on a daily schedule.
+
+### Features
 
 - **Automated Data Collection**: Runs hourly via GitHub Actions
 - **Multiple Subreddits**: Collects from `btc`, `eth`, and `CryptoMarkets`
 - **Google Drive Integration**: Automatically uploads CSV files to your Google Drive
 - **Manual Trigger**: Can be triggered manually via GitHub Actions UI
 
-## Setup Instructions
+### Setup Instructions
 
-### 1. Reddit API Credentials
+#### 1. Reddit API Credentials
 
 1. Create a Reddit app at https://www.reddit.com/prefs/apps
 2. Note your `client_id` and `client_secret`
 
-### 2. Google Drive API Setup
+#### 2. Google Drive API Setup
 
 **Option A: OAuth2 with Refresh Token (Recommended for GitHub Actions)**
 
@@ -39,7 +43,7 @@ This project automatically collects Reddit data from cryptocurrency-related subr
 3. Share the folder with the service account email (found in the JSON)
 4. Add the JSON content to your `.env` file as `GOOGLE_CREDENTIALS`
 
-### 3. GitHub Repository Secrets
+#### 3. GitHub Repository Secrets
 
 **For OAuth2 method (recommended):**
 - `REDDIT_CLIENT_ID`: Your Reddit app client ID
@@ -48,13 +52,13 @@ This project automatically collects Reddit data from cryptocurrency-related subr
 - `GOOGLE_CLIENT_SECRET`: From setup script output
 - `GOOGLE_REFRESH_TOKEN`: From setup script output
 
-## Workflow Schedule
+### Workflow Schedule
 
 The GitHub Action runs:
 - **Daily at 23:00 SGT** (automatically)
 - **On-demand** via the Actions tab in GitHub
 
-## Output Files
+### Output Files
 
 Each run generates CSV files named: `reddit_data_{subreddit}_{date}_{time}.csv`
 
@@ -65,14 +69,14 @@ Columns include:
 - `score`: Reddit score (upvotes - downvotes)
 - `flair`: Post flair text
 
-## Troubleshooting
+### Troubleshooting
 
 - **Import errors**: Run `pip install -e .` to ensure all dependencies are installed
 - **Google auth issues**: Verify your service account has access to the target folder
 - **Reddit API limits**: The script respects rate limits, but heavy usage may require delays
 - **Missing data**: Recent posts may have limited comments; consider running multiple times
 
-## Manual Testing
+### Manual Testing
 
 ```powershell
 # Test locally
