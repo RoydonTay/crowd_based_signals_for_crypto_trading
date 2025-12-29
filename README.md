@@ -2,6 +2,19 @@
 
 This project was completed by members of the NUS Fintech Society (ML Dept). This repository contains the code for data collection, processing and model training experiments.
 
+## Navigating the Repository
+
+This repository contains experiment notebooks, scripts for data retreival, data cleaning and processing, and web application deployment (Streamlit) of the CNN-GRU model for ETH price trend prediction.
+Visit the [deployed application](https://cnn-gru-eth-signals.streamlit.app/).
+
+Code for experiments:
+- Within the `experiments` folder, `Model Training` contains the code used to obtain the results reported in the project report, while `Sentiment Labelling` contains code used to experiment different sentiment and label extractions from Reddit posts.
+
+Other Misc Code:
+- `app.py` contains Streamlit application code
+- `get_eth_prices.py` contains code to extract price data from yfinance
+- `reddit_posts_collection_script.py` contains code to extract reddit posts using PRAW
+
 ## Reddit Data Collection with GitHub Actions (Turned Off)
 
 This repository automatically collects Reddit data from cryptocurrency-related subreddits and uploads the results to Google Drive on a daily schedule.
